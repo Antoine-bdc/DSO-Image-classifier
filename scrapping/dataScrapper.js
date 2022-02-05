@@ -8,7 +8,7 @@ const puppeteer = require('puppeteer');
   twoMassDy = await 260;
   dssDx = await 119;
   dssDy = await 260;
-  for (let i = 3401; i <= 5387; i++) {
+  for (let i = 5242; i <= 5387; i++) {
     await page.goto('https://simbad.u-strasbg.fr/simbad/sim-id?Ident=ngc' + i.toString() + '&submit=submit+id');
     // await console.log(i)
     let clip = await new Object();
@@ -28,21 +28,21 @@ const puppeteer = require('puppeteer');
           height: 1080,
         });
         await page.mouse.click(clip.x + dssDx, clip.y + dssDy)
-        await new Promise(r => setTimeout(r, 200)); // needed to confirm the page loads
+        await new Promise(r => setTimeout(r, 300)); // needed to confirm the page loads
         await page.screenshot({
-          path: 'imageData/dss/ngc' + i.toString() + '.png',
+          path: '../data/imageData/dss/ngc' + i.toString() + '.png',
           clip,
         });
         await page.mouse.click(clip.x + twoMassDx, clip.y + twoMassDy)
-        await new Promise(r => setTimeout(r, 200)); // needed to confirm the page loads
+        await new Promise(r => setTimeout(r, 300)); // needed to confirm the page loads
         await page.screenshot({
-            path: 'imageData/2mass/ngc' + i.toString() + '.png',
+            path: '../data/imageData/2mass/ngc' + i.toString() + '.png',
             clip,
         });
       }
       catch (error) {
         console.log(i);
-        fs.appendFile('imageData/nonConformingData.txt', i.toString() + '\n', (err) => {
+        fs.appendFile('../data/imageData/nonConformingData.txt', i.toString() + '\n', (err) => {
           if (err) {
               throw err;
           }
