@@ -1,2 +1,5 @@
 data/rawData/dss/*.png
 data/rawData/2mass/*.png
+data/imageData/dss/*.png
+data/imageData/2mass/*.png
+data/imageData/other

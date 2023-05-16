@@ -8,8 +8,35 @@ const puppeteer = require('puppeteer');
   twoMassDy = await 260;
   dssDx = await 119;
   dssDy = await 260;
-  for (let i = 5242; i <= 5387; i++) {
-    await page.goto('https://simbad.u-strasbg.fr/simbad/sim-id?Ident=ngc' + i.toString() + '&submit=submit+id');
+
+  // Preload the page for screenshot:
+  await page.goto('https://simbad.u-strasbg.fr/simbad/sim-id?Ident=ngc1');
+  // await console.log(i)
+  let clip = await new Object();
+  clip.x = await 1300;
+  clip.y = await 300;
+  clip.width = await 259;
+  clip.height = await 249;
+
+  await page.setViewport({
+    width: 1920,
+    height: 1080,
+  });
+  await page.mouse.click(10 + dssDx, 10 + dssDy)
+  await new Promise(r => setTimeout(r, 300)); // needed to confirm the page loads
+  await page.screenshot({
+    path: '../data/imageData/other/preload_1.png',
+    clip,
+  });
+  await page.mouse.click(10 + twoMassDx, 10 + twoMassDy)
+  await new Promise(r => setTimeout(r, 300)); // needed to confirm the page loads
+  await page.screenshot({
+      path: '../data/imageData/other/preload_2.png',
+      clip,
+  });
+
+  for (let i = 1; i <= 5387; i++) {  // max NGC 5387
+    await page.goto('https://simbad.u-strasbg.fr/simbad/sim-id?Ident=ngc' + i.toString());  //  + '&submit=submit+id'
     // await console.log(i)
     let clip = await new Object();
     clip.x = await 1300;

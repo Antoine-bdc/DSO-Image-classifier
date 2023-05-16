@@ -12,7 +12,7 @@ const puppeteer = require('puppeteer');
   };
   await NALabelInt.pop();
   
-  for (let i = 1; i <= 5387; i++) {
+  for (let i = 1; i <=  5387; i++) {
     await page.goto('https://simbad.u-strasbg.fr/simbad/sim-id?Ident=ngc' + i.toString() + '&submit=submit+id');
     const pageData = (await page.content());
     let distance = "  ";
@@ -29,7 +29,7 @@ const puppeteer = require('puppeteer');
     // await console.log(labelIndex);
     const grossData = pageData.substring(labelIndex, labelIndex + 120);
     const beginningIndex = grossData.indexOf(" --") + 3;
-    const finishingIndex = grossData.indexOf("\n       </font>");
+    const finishingIndex = grossData.indexOf("\n        </font>");
     const objectData = grossData.substring(beginningIndex, finishingIndex);
     
     if (i == 1) {
