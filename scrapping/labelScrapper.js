@@ -5,7 +5,7 @@ const puppeteer = require('puppeteer');
   const browser = await puppeteer.launch();
   const page = await browser.newPage();
   await page.setDefaultNavigationTimeout(0); 
-  var NALabelString = await fs.readFileSync("../data/imageData/nonConformingData.txt").toString().split('\n');
+  var NALabelString = await fs.readFileSync("../data/rawData/nonConformingData.txt").toString().split('\n');
   var NALabelInt = [];
   for (value in NALabelString) {
     await NALabelInt.push(parseInt(NALabelString[value]));
@@ -34,7 +34,7 @@ const puppeteer = require('puppeteer');
     
     if (i == 1) {
       console.log(objectData, '(' + i.toString() + ')');
-      fs.writeFile('../data/imageData/labels/ngcLabels.txt', objectData + "; NGC " + i.toString(), (err) => {
+      fs.writeFile('../data/rawData/labels/ngcLabels.txt', objectData + "; NGC " + i.toString(), (err) => {
         if (err) {
           throw err;
         }
@@ -42,7 +42,7 @@ const puppeteer = require('puppeteer');
     }
     if ((i > 1) && !(NALabelInt.includes(i)) && (objectData != '<!') && (objectData != 'NG')) {
       console.log(objectData, '(' + i.toString() + ')');
-      fs.appendFile('../data/imageData/labels/ngcLabels.txt', objectData + " ; NGC " + i.toString(), (err) => {
+      fs.appendFile('../data/rawData/labels/ngcLabels.txt', objectData + " ; NGC " + i.toString(), (err) => {
         if (err) {
             throw err;
         }

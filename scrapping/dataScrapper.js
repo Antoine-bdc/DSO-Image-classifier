@@ -25,13 +25,13 @@ const puppeteer = require('puppeteer');
   await page.mouse.click(10 + dssDx, 10 + dssDy)
   await new Promise(r => setTimeout(r, 300)); // needed to confirm the page loads
   await page.screenshot({
-    path: '../data/imageData/other/preload_1.png',
+    path: '../data/rawData/other/preload_1.png',
     clip,
   });
   await page.mouse.click(10 + twoMassDx, 10 + twoMassDy)
   await new Promise(r => setTimeout(r, 300)); // needed to confirm the page loads
   await page.screenshot({
-      path: '../data/imageData/other/preload_2.png',
+      path: '../data/rawData/other/preload_2.png',
       clip,
   });
 
@@ -57,19 +57,19 @@ const puppeteer = require('puppeteer');
         await page.mouse.click(clip.x + dssDx, clip.y + dssDy)
         await new Promise(r => setTimeout(r, 300)); // needed to confirm the page loads
         await page.screenshot({
-          path: '../data/imageData/dss/ngc' + i.toString() + '.png',
+          path: '../data/rawData/dss/ngc' + i.toString() + '.png',
           clip,
         });
         await page.mouse.click(clip.x + twoMassDx, clip.y + twoMassDy)
         await new Promise(r => setTimeout(r, 300)); // needed to confirm the page loads
         await page.screenshot({
-            path: '../data/imageData/2mass/ngc' + i.toString() + '.png',
+            path: '../data/rawData/2mass/ngc' + i.toString() + '.png',
             clip,
         });
       }
       catch (error) {
         console.log(i);
-        fs.appendFile('../data/imageData/nonConformingData.txt', i.toString() + '\n', (err) => {
+        fs.appendFile('../data/rawData/nonConformingData.txt', i.toString() + '\n', (err) => {
           if (err) {
               throw err;
           }

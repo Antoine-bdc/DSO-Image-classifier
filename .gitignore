@@ -1,5 +1,13 @@
+data/backup
+data/binaryData
+data/sortedData
+data/sortedData.zip
+data/cropedData
 data/rawData/dss/*.png
 data/rawData/2mass/*.png
 data/imageData/dss/*.png
 data/imageData/2mass/*.png
 data/imageData/other
+data/backup
+.ipynb_checkpoints
+learning/.ipynb_checkpoints

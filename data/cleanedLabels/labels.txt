@@ -4,7 +4,7 @@
 4;galaxy;galaxy
 5;galaxy;galaxy
 7;galaxy;galaxy
-8;double or multiple star;multiple star
+8;double or multiple star;multiple_star
 9;emission-line galaxy;galaxy
 10;emission-line galaxy;galaxy
 11;galaxy;galaxy
@@ -30,7 +30,7 @@
 37;galaxy in group of galaxies;galaxy
 38;galaxy;galaxy
 39;galaxy in group of galaxies;galaxy
-40;planetary nebula;planetary nebula
+40;planetary nebula;planetary_nebula
 41;galaxy in group of galaxies;galaxy
 42;galaxy in group of galaxies;galaxy
 43;galaxy in group of galaxies;galaxy
@@ -87,14 +87,14 @@
 100;low surface brightness galaxy;galaxy
 101;galaxy;galaxy
 102;galaxy in group of galaxies;galaxy
-103;open (galactic) cluster;open cluster
-104;globular cluster;globular cluster
+103;open (galactic) cluster;open_cluster
+104;globular cluster;globular_cluster
 105;galaxy;galaxy
 106;galaxy in group of galaxies;galaxy
 107;galaxy;galaxy
 108;galaxy;galaxy
 109;galaxy in pair of galaxies;galaxy
-110;open (galactic) cluster;open cluster
+110;open (galactic) cluster;open_cluster
 112;galaxy in group of galaxies;galaxy
 113;galaxy in group of galaxies;galaxy
 114;galaxy in group of galaxies;galaxy
@@ -104,20 +104,20 @@
 118;seyfert 2 galaxy;galaxy
 119;galaxy in group of galaxies;galaxy
 120;galaxy in group of galaxies;galaxy
-121;globular cluster;globular cluster
+121;globular cluster;globular_cluster
 124;galaxy in group of galaxies;galaxy
 125;galaxy in group of galaxies;galaxy
 126;galaxy in group of galaxies;galaxy
 127;galaxy in group of galaxies;galaxy
 128;galaxy in group of galaxies;galaxy
-129;open (galactic) cluster;open cluster
+129;open (galactic) cluster;open_cluster
 130;galaxy in group of galaxies;galaxy
 131;galaxy in pair of galaxies;galaxy
 132;galaxy in group of galaxies;galaxy
-133;open (galactic) cluster;open cluster
+133;open (galactic) cluster;open_cluster
 134;galaxy in pair of galaxies;galaxy
 135;emission-line galaxy;galaxy
-136;open (galactic) cluster;open cluster
+136;open (galactic) cluster;open_cluster
 137;galaxy in group of galaxies;galaxy
 138;galaxy;galaxy
 139;galaxy;galaxy
@@ -127,13 +127,13 @@
 143;galaxy in group of galaxies;galaxy
 144;emission-line galaxy;galaxy
 145;interacting galaxies;galaxy
-146;open (galactic) cluster;open cluster
+146;open (galactic) cluster;open_cluster
 147;galaxy in group of galaxies;galaxy
 148;galaxy in group of galaxies;galaxy
 149;galaxy;galaxy
 150;emission-line galaxy;galaxy
 151;liner-type active galaxy nucleus;galaxy
-152;open (galactic) cluster;open cluster
+152;open (galactic) cluster;open_cluster
 154;galaxy in group of galaxies;galaxy
 155;galaxy in group of galaxies;galaxy
 157;emission-line galaxy;galaxy
@@ -152,7 +152,7 @@
 173;galaxy in group of galaxies;galaxy
 174;galaxy;galaxy
 175;galaxy;galaxy
-176;cluster of stars;open cluster
+176;cluster of stars;open_cluster
 177;galaxy;galaxy
 178;galaxy in group of galaxies;galaxy
 179;galaxy;galaxy
@@ -164,8 +164,8 @@
 185;seyfert 2 galaxy;galaxy
 186;galaxy in group of galaxies;galaxy
 187;galaxy in group of galaxies;galaxy
-188;open (galactic) cluster;open cluster
-189;open (galactic) cluster;open cluster
+188;open (galactic) cluster;open_cluster
+189;open (galactic) cluster;open_cluster
 190;galaxy in cluster of galaxies;galaxy
 191;interacting galaxies;galaxy
 192;radio galaxy;galaxy
@@ -181,7 +181,7 @@
 202;galaxy in group of galaxies;galaxy
 203;galaxy in group of galaxies;galaxy
 204;galaxy in group of galaxies;galaxy
-206;association of stars;open cluster
+206;association of stars;open_cluster
 207;emission-line galaxy;galaxy
 208;galaxy in group of galaxies;galaxy
 209;galaxy;galaxy
@@ -194,16 +194,16 @@
 217;galaxy in cluster of galaxies;galaxy
 218;low surface brightness galaxy;galaxy
 219;galaxy in cluster of galaxies;galaxy
-220;open (galactic) cluster;open cluster
-222;open (galactic) cluster;open cluster
+220;open (galactic) cluster;open_cluster
+222;open (galactic) cluster;open_cluster
 223;liner-type active galaxy nucleus;galaxy
-225;open (galactic) cluster;open cluster
+225;open (galactic) cluster;open_cluster
 226;galaxy in group of galaxies;galaxy
 227;galaxy in group of galaxies;galaxy
 228;galaxy in group of galaxies;galaxy
 229;galaxy in group of galaxies;galaxy
 230;galaxy in group of galaxies;galaxy
-231;open (galactic) cluster;open cluster
+231;open (galactic) cluster;open_cluster
 232;galaxy in group of galaxies;galaxy
 233;galaxy in group of galaxies;galaxy
 234;emission-line galaxy;galaxy
@@ -213,14 +213,14 @@
 238;galaxy;galaxy
 239;emission-line galaxy;galaxy
 240;galaxy;galaxy
-241;cluster of stars;open cluster
-242;open (galactic) cluster;open cluster
+241;cluster of stars;open_cluster
+242;open (galactic) cluster;open_cluster
 243;galaxy in group of galaxies;galaxy
 244;blue compact galaxy;galaxy
 245;hii galaxy;galaxy
-246;planetary nebula;planetary nebula
+246;planetary nebula;planetary_nebula
 247;low surface brightness galaxy;galaxy
-248;cluster of stars;open cluster
+248;cluster of stars;open_cluster
 249;hii (ionized) region;nebula
 250;galaxy in group of galaxies;galaxy
 251;galaxy in pair of galaxies;galaxy
@@ -228,7 +228,7 @@
 253;seyfert galaxy;galaxy
 254;galaxy in pair of galaxies;galaxy
 255;galaxy in group of galaxies;galaxy
-256;open (galactic) cluster;open cluster
+256;open (galactic) cluster;open_cluster
 257;galaxy in group of galaxies;galaxy
 258;galaxy;galaxy
 259;emission-line galaxy;galaxy
@@ -240,10 +240,10 @@
 266;liner-type active galaxy nucleus;galaxy
 267;hii (ionized) region;nebula
 268;emission-line galaxy;galaxy
-269;cluster of stars;open cluster
+269;cluster of stars;open_cluster
 270;galaxy in group of galaxies;galaxy
 271;galaxy in group of galaxies;galaxy
-272;cluster of stars;open cluster
+272;cluster of stars;open_cluster
 273;galaxy;galaxy
 274;galaxy in pair of galaxies;galaxy
 275;galaxy in pair of galaxies;galaxy
@@ -259,23 +259,23 @@
 285;galaxy in group of galaxies;galaxy
 286;galaxy in group of galaxies;galaxy
 287;galaxy in group of galaxies;galaxy
-288;globular cluster;globular cluster
+288;globular cluster;globular_cluster
 289;active galaxy nucleus;galaxy
-290;cluster of stars;open cluster
+290;cluster of stars;open_cluster
 291;seyfert 2 galaxy;galaxy
 293;galaxy in cluster of galaxies;galaxy
-294;cluster of stars;open cluster
+294;cluster of stars;open_cluster
 295;galaxy in group of galaxies;galaxy
 296;low surface brightness galaxy;galaxy
 297;galaxy;galaxy
 298;galaxy in group of galaxies;galaxy
-299;cluster of stars;open cluster
+299;cluster of stars;open_cluster
 300;galaxy in group of galaxies;galaxy
 301;galaxy;galaxy
 303;emission-line galaxy;galaxy
 304;galaxy in group of galaxies;galaxy
 305;galaxy;galaxy
-306;cluster of stars;open cluster
+306;cluster of stars;open_cluster
 307;galaxy in group of galaxies;galaxy
 309;emission-line galaxy;galaxy
 311;galaxy in group of galaxies;galaxy
@@ -295,7 +295,7 @@
 327;galaxy in group of galaxies;galaxy
 328;galaxy in group of galaxies;galaxy
 329;galaxy in group of galaxies;galaxy
-330;cluster of stars;open cluster
+330;cluster of stars;open_cluster
 331;galaxy;galaxy
 332;galaxy;galaxy
 333;galaxy;galaxy
@@ -304,13 +304,13 @@
 336;galaxy;galaxy
 337;emission-line galaxy;galaxy
 338;galaxy in group of galaxies;galaxy
-339;open (galactic) cluster;open cluster
+339;open (galactic) cluster;open_cluster
 340;emission-line galaxy;galaxy
 341;interacting galaxies;galaxy
 342;galaxy in group of galaxies;galaxy
 344;galaxy;galaxy
 345;galaxy in group of galaxies;galaxy
-346;cluster of stars;open cluster
+346;cluster of stars;open_cluster
 347;galaxy in cluster of galaxies;galaxy
 348;galaxy;galaxy
 349;galaxy in group of galaxies;galaxy
@@ -322,27 +322,27 @@
 355;galaxy;galaxy
 356;galaxy in group of galaxies;galaxy
 357;galaxy in cluster of galaxies;galaxy
-358;open (galactic) cluster;open cluster
+358;open (galactic) cluster;open_cluster
 359;galaxy in group of galaxies;galaxy
 360;galaxy;galaxy
-361;open (galactic) cluster;open cluster
-362;globular cluster;globular cluster
+361;open (galactic) cluster;open_cluster
+362;globular cluster;globular_cluster
 363;galaxy;galaxy
 364;liner-type active galaxy nucleus;galaxy
 365;galaxy;galaxy
-366;open (galactic) cluster;open cluster
+366;open (galactic) cluster;open_cluster
 367;galaxy;galaxy
 368;galaxy;galaxy
 369;galaxy in group of galaxies;galaxy
-371;open (galactic) cluster;open cluster
+371;open (galactic) cluster;open_cluster
 373;galaxy in group of galaxies;galaxy
 374;galaxy in group of galaxies;galaxy
 375;interacting galaxies;galaxy
-376;cluster of stars;open cluster
+376;cluster of stars;open_cluster
 378;galaxy;galaxy
 379;galaxy in group of galaxies;galaxy
 380;galaxy in group of galaxies;galaxy
-381;open (galactic) cluster;open cluster
+381;open (galactic) cluster;open_cluster
 382;galaxy in pair of galaxies;galaxy
 383;radio galaxy;galaxy
 384;galaxy in group of galaxies;galaxy
@@ -356,7 +356,7 @@
 392;galaxy in group of galaxies;galaxy
 393;galaxy in group of galaxies;galaxy
 394;galaxy in group of galaxies;galaxy
-395;association of stars;open cluster
+395;association of stars;open_cluster
 396;galaxy;galaxy
 397;galaxy in group of galaxies;galaxy
 398;galaxy in group of galaxies;galaxy
@@ -368,17 +368,17 @@
 408;galaxy in group of galaxies;galaxy
 409;galaxy in group of galaxies;galaxy
 410;galaxy in group of galaxies;galaxy
-411;cluster of stars;open cluster
+411;cluster of stars;open_cluster
 412;galaxy;galaxy
 413;galaxy in group of galaxies;galaxy
 414;galaxy in group of galaxies;galaxy
 415;galaxy in group of galaxies;galaxy
-416;cluster of stars;open cluster
+416;cluster of stars;open_cluster
 417;liner-type active galaxy nucleus;galaxy
 418;emission-line galaxy;galaxy
-419;open (galactic) cluster;open cluster
+419;open (galactic) cluster;open_cluster
 420;galaxy in group of galaxies;galaxy
-422;open (galactic) cluster;open cluster
+422;open (galactic) cluster;open_cluster
 423;galaxy;galaxy
 424;seyfert 2 galaxy;galaxy
 425;galaxy in group of galaxies;galaxy
@@ -389,10 +389,10 @@
 430;galaxy in group of galaxies;galaxy
 431;galaxy;galaxy
 432;brightest galaxy in a cluster (bcg);galaxy
-433;open (galactic) cluster;open cluster
+433;open (galactic) cluster;open_cluster
 434;galaxy in group of galaxies;galaxy
 435;galaxy in group of galaxies;galaxy
-436;open (galactic) cluster;open cluster
+436;open (galactic) cluster;open_cluster
 437;galaxy in group of galaxies;galaxy
 438;galaxy;galaxy
 439;brightest galaxy in a cluster (bcg);galaxy
@@ -412,15 +412,15 @@
 454;pair of galaxies;galaxy
 455;interacting galaxies;galaxy
 456;hii (ionized) region;nebula
-457;open (galactic) cluster;open cluster
-458;open (galactic) cluster;open cluster
+457;open (galactic) cluster;open_cluster
+458;open (galactic) cluster;open_cluster
 459;galaxy;galaxy
-460;cluster of stars;open cluster
+460;cluster of stars;open_cluster
 461;galaxy;galaxy
 462;galaxy;galaxy
 463;galaxy in group of galaxies;galaxy
 464;galaxy;galaxy
-465;open (galactic) cluster;open cluster
+465;open (galactic) cluster;open_cluster
 466;galaxy in group of galaxies;galaxy
 467;galaxy in group of galaxies;galaxy
 468;galaxy in group of galaxies;galaxy
@@ -509,7 +509,7 @@
 556;galaxy;galaxy
 557;galaxy in group of galaxies;galaxy
 558;galaxy in group of galaxies;galaxy
-559;open (galactic) cluster;open cluster
+559;open (galactic) cluster;open_cluster
 560;galaxy in group of galaxies;galaxy
 561;galaxy in group of galaxies;galaxy
 562;galaxy in group of galaxies;galaxy
@@ -547,12 +547,12 @@
 597;galaxy in group of galaxies;galaxy
 599;active galaxy nucleus;galaxy
 600;emission-line galaxy;galaxy
-602;cluster of stars;open cluster
+602;cluster of stars;open_cluster
 604;hii (ionized) region;nebula
 605;galaxy;galaxy
 606;galaxy;galaxy
 608;galaxy in pair of galaxies;galaxy
-609;open (galactic) cluster;open cluster
+609;open (galactic) cluster;open_cluster
 612;seyfert 2 galaxy;galaxy
 613;active galaxy nucleus;galaxy
 614;galaxy in pair of galaxies;galaxy
@@ -572,13 +572,13 @@
 633;emission-line galaxy;galaxy
 634;galaxy in group of galaxies;galaxy
 636;galaxy in group of galaxies;galaxy
-637;open (galactic) cluster;open cluster
+637;open (galactic) cluster;open_cluster
 638;galaxy in group of galaxies;galaxy
 639;emission-line galaxy;galaxy
 640;seyfert 2 galaxy;galaxy
 641;galaxy in group of galaxies;galaxy
 642;galaxy in pair of galaxies;galaxy
-643;cluster of stars;open cluster
+643;cluster of stars;open_cluster
 644;galaxy in group of galaxies;galaxy
 645;galaxy in group of galaxies;galaxy
 646;interacting galaxies;galaxy
@@ -587,16 +587,16 @@
 649;galaxy in cluster of galaxies;galaxy
 652;galaxy;galaxy
 653;galaxy in group of galaxies;galaxy
-654;open (galactic) cluster;open cluster
+654;open (galactic) cluster;open_cluster
 655;galaxy;galaxy
 656;galaxy;galaxy
-657;open (galactic) cluster;open cluster
+657;open (galactic) cluster;open_cluster
 658;galaxy;galaxy
-659;open (galactic) cluster;open cluster
+659;open (galactic) cluster;open_cluster
 660;seyfert 2 galaxy;galaxy
 661;galaxy in group of galaxies;galaxy
 662;radio galaxy;galaxy
-663;open (galactic) cluster;open cluster
+663;open (galactic) cluster;open_cluster
 664;galaxy in group of galaxies;galaxy
 665;galaxy in group of galaxies;galaxy
 666;galaxy in group of galaxies;galaxy
@@ -671,8 +671,8 @@
 740;galaxy in group of galaxies;galaxy
 741;radio galaxy;galaxy
 742;galaxy in pair of galaxies;galaxy
-743;open (galactic) cluster;open cluster
-744;open (galactic) cluster;open cluster
+743;open (galactic) cluster;open_cluster
+744;open (galactic) cluster;open_cluster
 745;galaxy in group of galaxies;galaxy
 746;low surface brightness galaxy;galaxy
 747;galaxy;galaxy
@@ -680,13 +680,13 @@
 749;galaxy;galaxy
 750;galaxy in pair of galaxies;galaxy
 751;galaxy in pair of galaxies;galaxy
-752;open (galactic) cluster;open cluster
+752;open (galactic) cluster;open_cluster
 753;galaxy in group of galaxies;galaxy
 754;galaxy;galaxy
 755;emission-line galaxy;galaxy
 758;galaxy;galaxy
 759;galaxy in group of galaxies;galaxy
-760;double or multiple star;multiple star
+760;double or multiple star;multiple_star
 761;galaxy in group of galaxies;galaxy
 762;galaxy in group of galaxies;galaxy
 765;galaxy in group of galaxies;galaxy
@@ -718,7 +718,7 @@
 792;galaxy in group of galaxies;galaxy
 794;galaxy;galaxy
 795;galaxy in group of galaxies;galaxy
-796;cluster of stars;open cluster
+796;cluster of stars;open_cluster
 797;galaxy;galaxy
 798;galaxy in group of galaxies;galaxy
 799;liner-type active galaxy nucleus;galaxy
@@ -754,7 +754,7 @@
 829;radio galaxy;galaxy
 830;galaxy in group of galaxies;galaxy
 831;galaxy;galaxy
-832;double or multiple star;multiple star
+832;double or multiple star;multiple_star
 833;seyfert 2 galaxy;galaxy
 834;galaxy in group of galaxies;galaxy
 835;seyfert 2 galaxy;galaxy
@@ -765,7 +765,7 @@
 840;galaxy;galaxy
 841;liner-type active galaxy nucleus;galaxy
 842;galaxy in group of galaxies;galaxy
-843;cluster of stars;open cluster
+843;cluster of stars;open_cluster
 844;galaxy;galaxy
 845;galaxy in group of galaxies;galaxy
 846;galaxy;galaxy
@@ -787,7 +787,7 @@
 864;hii galaxy;galaxy
 865;galaxy;galaxy
 868;low surface brightness galaxy;galaxy
-869;open (galactic) cluster;open cluster
+869;open (galactic) cluster;open_cluster
 870;galaxy;galaxy
 871;galaxy in group of galaxies;galaxy
 872;galaxy;galaxy
@@ -802,8 +802,8 @@
 881;galaxy in group of galaxies;galaxy
 882;galaxy in group of galaxies;galaxy
 883;galaxy in group of galaxies;galaxy
-884;open (galactic) cluster;open cluster
-886;open (galactic) cluster;open cluster
+884;open (galactic) cluster;open_cluster
+886;open (galactic) cluster;open_cluster
 887;galaxy;galaxy
 888;galaxy;galaxy
 889;galaxy in group of galaxies;galaxy
@@ -869,8 +869,8 @@
 953;galaxy in group of galaxies;galaxy
 954;galaxy in group of galaxies;galaxy
 955;galaxy in group of galaxies;galaxy
-956;open (galactic) cluster;open cluster
-957;open (galactic) cluster;open cluster
+956;open (galactic) cluster;open_cluster
+957;open (galactic) cluster;open_cluster
 958;emission-line galaxy;galaxy
 959;galaxy in group of galaxies;galaxy
 960;liner-type active galaxy nucleus;galaxy
@@ -934,7 +934,7 @@
 1024;interacting galaxies;galaxy
 1025;galaxy;galaxy
 1026;galaxy;galaxy
-1027;open (galactic) cluster;open cluster
+1027;open (galactic) cluster;open_cluster
 1028;galaxy in group of galaxies;galaxy
 1029;galaxy in pair of galaxies;galaxy
 1030;galaxy in group of galaxies;galaxy
@@ -946,7 +946,7 @@
 1036;galaxy;galaxy
 1037;galaxy;galaxy
 1038;galaxy in group of galaxies;galaxy
-1039;open (galactic) cluster;open cluster
+1039;open (galactic) cluster;open_cluster
 1041;galaxy;galaxy
 1042;galaxy in pair of galaxies;galaxy
 1043;galaxy in group of galaxies;galaxy
@@ -1082,7 +1082,7 @@
 1190;galaxy in pair of galaxies;galaxy
 1191;galaxy;galaxy
 1192;galaxy;galaxy
-1193;open (galactic) cluster;open cluster
+1193;open (galactic) cluster;open_cluster
 1194;seyfert 2 galaxy;galaxy
 1195;galaxy in group of galaxies;galaxy
 1196;galaxy in group of galaxies;galaxy
@@ -1106,7 +1106,7 @@
 1217;liner-type active galaxy nucleus;galaxy
 1218;seyfert 1 galaxy;galaxy
 1219;galaxy;galaxy
-1220;open (galactic) cluster;open cluster
+1220;open (galactic) cluster;open_cluster
 1221;galaxy in group of galaxies;galaxy
 1222;starburst galaxy;galaxy
 1223;galaxy in group of galaxies;galaxy
@@ -1127,22 +1127,22 @@
 1241;seyfert 2 galaxy;galaxy
 1242;galaxy;galaxy
 1244;galaxy in group of galaxies;galaxy
-1245;open (galactic) cluster;open cluster
+1245;open (galactic) cluster;open_cluster
 1246;galaxy in group of galaxies;galaxy
 1247;galaxy in group of galaxies;galaxy
 1248;galaxy in pair of galaxies;galaxy
 1249;galaxy in group of galaxies;galaxy
 1250;galaxy in group of galaxies;galaxy
-1252;cluster of stars;open cluster
+1252;cluster of stars;open_cluster
 1253;galaxy in pair of galaxies;galaxy
 1254;galaxy;galaxy
 1255;galaxy in group of galaxies;galaxy
 1256;galaxy;galaxy
-1257;double or multiple star;multiple star
+1257;double or multiple star;multiple_star
 1258;galaxy in group of galaxies;galaxy
 1259;galaxy in group of galaxies;galaxy
 1260;galaxy in group of galaxies;galaxy
-1261;globular cluster;globular cluster
+1261;globular cluster;globular_cluster
 1262;galaxy;galaxy
 1263;galaxy;galaxy
 1264;low surface brightness galaxy;galaxy
@@ -1208,7 +1208,7 @@
 1330;galaxy in group of galaxies;galaxy
 1331;galaxy in group of galaxies;galaxy
 1332;galaxy in pair of galaxies;galaxy
-1333;open (galactic) cluster;open cluster
+1333;open (galactic) cluster;open_cluster
 1334;galaxy in group of galaxies;galaxy
 1335;galaxy in group of galaxies;galaxy
 1336;galaxy in group of galaxies;galaxy
@@ -1217,12 +1217,12 @@
 1339;galaxy in group of galaxies;galaxy
 1340;galaxy in group of galaxies;galaxy
 1341;emission-line galaxy;galaxy
-1342;open (galactic) cluster;open cluster
+1342;open (galactic) cluster;open_cluster
 1343;galaxy;galaxy
 1345;emission-line galaxy;galaxy
 1346;seyfert 1 galaxy;galaxy
 1347;interacting galaxies;galaxy
-1348;open (galactic) cluster;open cluster
+1348;open (galactic) cluster;open_cluster
 1349;liner-type active galaxy nucleus;galaxy
 1350;galaxy in group of galaxies;galaxy
 1351;galaxy in group of galaxies;galaxy
@@ -1234,7 +1234,7 @@
 1357;galaxy in group of galaxies;galaxy
 1358;seyfert 2 galaxy;galaxy
 1359;galaxy in pair of galaxies;galaxy
-1360;planetary nebula;planetary nebula
+1360;planetary nebula;planetary_nebula
 1361;liner-type active galaxy nucleus;galaxy
 1362;galaxy in group of galaxies;galaxy
 1363;galaxy;galaxy
@@ -1308,7 +1308,7 @@
 1439;galaxy in group of galaxies;galaxy
 1440;galaxy in group of galaxies;galaxy
 1441;galaxy in group of galaxies;galaxy
-1444;open (galactic) cluster;open cluster
+1444;open (galactic) cluster;open_cluster
 1445;galaxy;galaxy
 1447;galaxy in group of galaxies;galaxy
 1448;galaxy in group of galaxies;galaxy
@@ -1325,7 +1325,7 @@
 1462;galaxy;galaxy
 1463;galaxy;galaxy
 1465;galaxy in group of galaxies;galaxy
-1466;globular cluster;globular cluster
+1466;globular cluster;globular_cluster
 1467;galaxy;galaxy
 1468;radio galaxy;galaxy
 1469;galaxy in group of galaxies;galaxy
@@ -1352,13 +1352,13 @@
 1493;galaxy in pair of galaxies;galaxy
 1494;galaxy in group of galaxies;galaxy
 1495;emission-line galaxy;galaxy
-1496;open (galactic) cluster;open cluster
+1496;open (galactic) cluster;open_cluster
 1497;galaxy in group of galaxies;galaxy
-1498;cluster of stars;open cluster
+1498;cluster of stars;open_cluster
 1499;hii (ionized) region;nebula
 1500;brightest galaxy in a cluster (bcg);galaxy
-1501;planetary nebula;planetary nebula
-1502;open (galactic) cluster;open cluster
+1501;planetary nebula;planetary_nebula
+1502;open (galactic) cluster;open_cluster
 1503;galaxy in group of galaxies;galaxy
 1504;galaxy;galaxy
 1505;galaxy;galaxy
@@ -1369,26 +1369,26 @@
 1510;galaxy in pair of galaxies;galaxy
 1511;galaxy in pair of galaxies;galaxy
 1512;galaxy in pair of galaxies;galaxy
-1513;open (galactic) cluster;open cluster
-1514;planetary nebula;planetary nebula
+1513;open (galactic) cluster;open_cluster
+1514;planetary nebula;planetary_nebula
 1515;emission-line galaxy;galaxy
 1516;galaxy;galaxy
 1517;galaxy;galaxy
 1518;emission-line galaxy;galaxy
 1519;galaxy in group of galaxies;galaxy
-1520;cluster of stars;open cluster
+1520;cluster of stars;open_cluster
 1521;galaxy in group of galaxies;galaxy
 1522;emission-line galaxy;galaxy
 1526;galaxy in group of galaxies;galaxy
 1527;galaxy in group of galaxies;galaxy
-1528;open (galactic) cluster;open cluster
+1528;open (galactic) cluster;open_cluster
 1529;galaxy in group of galaxies;galaxy
 1530;galaxy;galaxy
 1531;galaxy in pair of galaxies;galaxy
 1532;galaxy in pair of galaxies;galaxy
 1533;galaxy in group of galaxies;galaxy
 1534;galaxy in group of galaxies;galaxy
-1535;planetary nebula;planetary nebula
+1535;planetary nebula;planetary_nebula
 1536;interacting galaxies;galaxy
 1537;galaxy in group of galaxies;galaxy
 1539;galaxy in group of galaxies;galaxy
@@ -1397,17 +1397,17 @@
 1542;galaxy in group of galaxies;galaxy
 1543;emission-line galaxy;galaxy
 1544;galaxy;galaxy
-1545;open (galactic) cluster;open cluster
+1545;open (galactic) cluster;open_cluster
 1546;galaxy in group of galaxies;galaxy
 1547;galaxy;galaxy
-1548;open (galactic) cluster;open cluster
+1548;open (galactic) cluster;open_cluster
 1549;galaxy in pair of galaxies;galaxy
 1550;brightest galaxy in a cluster (bcg);galaxy
 1552;galaxy in group of galaxies;galaxy
 1553;galaxy in pair of galaxies;galaxy
 1554;reflection nebula;nebula
 1556;emission-line galaxy;galaxy
-1557;open (galactic) cluster;open cluster
+1557;open (galactic) cluster;open_cluster
 1558;galaxy in group of galaxies;galaxy
 1559;galaxy in group of galaxies;galaxy
 1560;galaxy in group of galaxies;galaxy
@@ -1428,10 +1428,10 @@
 1576;galaxy in group of galaxies;galaxy
 1577;galaxy in cluster of galaxies;galaxy
 1578;galaxy;galaxy
-1579;open (galactic) cluster;open cluster
+1579;open (galactic) cluster;open_cluster
 1580;galaxy in group of galaxies;galaxy
 1581;galaxy in group of galaxies;galaxy
-1582;open (galactic) cluster;open cluster
+1582;open (galactic) cluster;open_cluster
 1583;galaxy in group of galaxies;galaxy
 1584;galaxy in group of galaxies;galaxy
 1585;galaxy;galaxy
@@ -1453,7 +1453,7 @@
 1602;galaxy in pair of galaxies;galaxy
 1603;galaxy in group of galaxies;galaxy
 1604;galaxy in group of galaxies;galaxy
-1605;open (galactic) cluster;open cluster
+1605;open (galactic) cluster;open_cluster
 1606;galaxy;galaxy
 1607;galaxy in group of galaxies;galaxy
 1608;galaxy in group of galaxies;galaxy
@@ -1471,11 +1471,11 @@
 1621;galaxy in group of galaxies;galaxy
 1622;galaxy in group of galaxies;galaxy
 1623;galaxy in cluster of galaxies;galaxy
-1624;open (galactic) cluster;open cluster
+1624;open (galactic) cluster;open_cluster
 1625;galaxy;galaxy
 1627;galaxy;galaxy
 1628;galaxy;galaxy
-1629;globular cluster;globular cluster
+1629;globular cluster;globular_cluster
 1630;galaxy;galaxy
 1631;galaxy;galaxy
 1632;galaxy in group of galaxies;galaxy
@@ -1486,18 +1486,18 @@
 1637;active galaxy nucleus;galaxy
 1638;galaxy in group of galaxies;galaxy
 1640;galaxy;galaxy
-1641;cluster of stars;open cluster
+1641;cluster of stars;open_cluster
 1642;galaxy;galaxy
 1643;emission-line galaxy;galaxy
-1644;globular cluster;globular cluster
+1644;globular cluster;globular_cluster
 1645;liner-type active galaxy nucleus;galaxy
 1646;galaxy in group of galaxies;galaxy
-1647;open (galactic) cluster;open cluster
+1647;open (galactic) cluster;open_cluster
 1648;galaxy in group of galaxies;galaxy
-1649;cluster of stars;open cluster
+1649;cluster of stars;open_cluster
 1650;galaxy in cluster of galaxies;galaxy
-1651;globular cluster;globular cluster
-1652;globular cluster;globular cluster
+1651;globular cluster;globular_cluster
+1652;globular cluster;globular_cluster
 1653;galaxy in group of galaxies;galaxy
 1654;galaxy in group of galaxies;galaxy
 1656;galaxy;galaxy
@@ -1506,9 +1506,9 @@
 1659;galaxy in group of galaxies;galaxy
 1660;galaxy;galaxy
 1661;galaxy in group of galaxies;galaxy
-1662;open (galactic) cluster;open cluster
-1663;open (galactic) cluster;open cluster
-1664;open (galactic) cluster;open cluster
+1662;open (galactic) cluster;open_cluster
+1663;open (galactic) cluster;open_cluster
+1664;open (galactic) cluster;open_cluster
 1665;galaxy in group of galaxies;galaxy
 1666;galaxy in group of galaxies;galaxy
 1667;seyfert 2 galaxy;galaxy
@@ -1517,8 +1517,8 @@
 1670;galaxy in group of galaxies;galaxy
 1671;galaxy in cluster of galaxies;galaxy
 1672;seyfert galaxy;galaxy
-1673;cluster of stars;open cluster
-1676;cluster of stars;open cluster
+1673;cluster of stars;open_cluster
+1676;cluster of stars;open_cluster
 1677;galaxy;galaxy
 1678;galaxy in group of galaxies;galaxy
 1679;emission-line galaxy;galaxy
@@ -1534,549 +1534,549 @@
 1690;galaxy in cluster of galaxies;galaxy
 1691;galaxy in group of galaxies;galaxy
 1692;active galaxy nucleus;galaxy
-1693;cluster of stars;open cluster
+1693;cluster of stars;open_cluster
 1694;galaxy in group of galaxies;galaxy
-1695;cluster of stars;open cluster
-1696;globular cluster;globular cluster
-1697;cluster of stars;open cluster
-1698;cluster of stars;open cluster
+1695;cluster of stars;open_cluster
+1696;globular cluster;globular_cluster
+1697;cluster of stars;open_cluster
+1698;cluster of stars;open_cluster
 1699;galaxy in group of galaxies;galaxy
 1700;galaxy in group of galaxies;galaxy
 1701;galaxy;galaxy
-1702;cluster of stars;open cluster
+1702;cluster of stars;open_cluster
 1703;galaxy in group of galaxies;galaxy
-1704;cluster of stars;open cluster
+1704;cluster of stars;open_cluster
 1705;starburst galaxy;galaxy
 1706;galaxy in group of galaxies;galaxy
-1708;open (galactic) cluster;open cluster
+1708;open (galactic) cluster;open_cluster
 1709;galaxy in group of galaxies;galaxy
 1710;galaxy;galaxy
-1711;cluster of stars;open cluster
-1712;association of stars;open cluster
+1711;cluster of stars;open_cluster
+1712;association of stars;open_cluster
 1713;active galaxy nucleus;galaxy
 1714;emission object;nebula
 1715;emission object;nebula
 1716;galaxy in group of galaxies;galaxy
-1718;cluster of stars;open cluster
+1718;cluster of stars;open_cluster
 1719;galaxy in group of galaxies;galaxy
 1720;galaxy in group of galaxies;galaxy
 1721;galaxy in group of galaxies;galaxy
 1722;hii (ionized) region;nebula
 1723;galaxy in group of galaxies;galaxy
-1724;open (galactic) cluster;open cluster
+1724;open (galactic) cluster;open_cluster
 1725;galaxy in group of galaxies;galaxy
 1726;galaxy in group of galaxies;galaxy
 1727;hii (ionized) region;nebula
 1728;galaxy in group of galaxies;galaxy
 1729;galaxy in group of galaxies;galaxy
 1730;galaxy;galaxy
-1731;association of stars;open cluster
-1732;cluster of stars;open cluster
-1733;cluster of stars;open cluster
-1734;cluster of stars;open cluster
-1735;cluster of stars;open cluster
+1731;association of stars;open_cluster
+1732;cluster of stars;open_cluster
+1733;cluster of stars;open_cluster
+1734;cluster of stars;open_cluster
+1735;cluster of stars;open_cluster
 1736;emission object;nebula
 1737;hii (ionized) region;nebula
 1738;galaxy;galaxy
 1739;galaxy;galaxy
 1740;galaxy in group of galaxies;galaxy
 1741;interacting galaxies;galaxy
-1743;cluster of stars;open cluster
+1743;cluster of stars;open_cluster
 1744;low surface brightness galaxy;galaxy
-1745;cluster of stars;open cluster
-1746;open (galactic) cluster;open cluster
-1747;association of stars;open cluster
-1748;association of stars;open cluster
-1749;cluster of stars;open cluster
-1750;open (galactic) cluster;open cluster
-1751;cluster of stars;open cluster
+1745;cluster of stars;open_cluster
+1746;open (galactic) cluster;open_cluster
+1747;association of stars;open_cluster
+1748;association of stars;open_cluster
+1749;cluster of stars;open_cluster
+1750;open (galactic) cluster;open_cluster
+1751;cluster of stars;open_cluster
 1752;galaxy in group of galaxies;galaxy
 1753;galaxy in group of galaxies;galaxy
-1754;cluster of stars;open cluster
-1755;cluster of stars;open cluster
-1756;globular cluster;globular cluster
-1758;open (galactic) cluster;open cluster
+1754;cluster of stars;open_cluster
+1755;cluster of stars;open_cluster
+1756;globular cluster;globular_cluster
+1758;open (galactic) cluster;open_cluster
 1759;brightest galaxy in a cluster (bcg);galaxy
 1760;hii (ionized) region;nebula
-1761;association of stars;open cluster
+1761;association of stars;open_cluster
 1762;galaxy in cluster of galaxies;galaxy
-1763;association of stars;open cluster
-1764;cluster of stars;open cluster
+1763;association of stars;open_cluster
+1764;cluster of stars;open_cluster
 1765;galaxy in group of galaxies;galaxy
-1766;cluster of stars;open cluster
-1767;cluster of stars;open cluster
-1768;cluster of stars;open cluster
-1769;association of stars;open cluster
+1766;cluster of stars;open_cluster
+1767;cluster of stars;open_cluster
+1768;cluster of stars;open_cluster
+1769;association of stars;open_cluster
 1770;hii (ionized) region;nebula
 1771;galaxy in group of galaxies;galaxy
-1772;cluster of stars;open cluster
+1772;cluster of stars;open_cluster
 1773;hii (ionized) region;nebula
-1774;cluster of stars;open cluster
-1775;cluster of stars;open cluster
-1776;cluster of stars;open cluster
-1777;cluster of stars;open cluster
-1778;open (galactic) cluster;open cluster
+1774;cluster of stars;open_cluster
+1775;cluster of stars;open_cluster
+1776;cluster of stars;open_cluster
+1777;cluster of stars;open_cluster
+1778;open (galactic) cluster;open_cluster
 1779;galaxy in group of galaxies;galaxy
 1780;galaxy in group of galaxies;galaxy
 1781;galaxy in group of galaxies;galaxy
-1782;cluster of stars;open cluster
-1783;globular cluster;globular cluster
+1782;cluster of stars;open_cluster
+1783;globular cluster;globular_cluster
 1784;galaxy in group of galaxies;galaxy
-1785;open (galactic) cluster;open cluster
-1786;cluster of stars;open cluster
-1787;association of stars;open cluster
+1785;open (galactic) cluster;open_cluster
+1786;cluster of stars;open_cluster
+1787;association of stars;open_cluster
 1788;reflection nebula;nebula
-1789;cluster of stars;open cluster
-1790;open (galactic) cluster;open cluster
-1791;cluster of stars;open cluster
+1789;cluster of stars;open_cluster
+1790;open (galactic) cluster;open_cluster
+1791;cluster of stars;open_cluster
 1792;emission-line galaxy;galaxy
-1793;cluster of stars;open cluster
-1795;cluster of stars;open cluster
+1793;cluster of stars;open_cluster
+1795;cluster of stars;open_cluster
 1796;galaxy in group of galaxies;galaxy
 1797;starburst galaxy;galaxy
-1798;open (galactic) cluster;open cluster
+1798;open (galactic) cluster;open_cluster
 1799;galaxy;galaxy
 1800;galaxy;galaxy
-1801;cluster of stars;open cluster
-1802;open (galactic) cluster;open cluster
+1801;cluster of stars;open_cluster
+1802;open (galactic) cluster;open_cluster
 1803;galaxy in pair of galaxies;galaxy
-1804;cluster of stars;open cluster
-1805;globular cluster;globular cluster
-1806;globular cluster;globular cluster
-1807;open (galactic) cluster;open cluster
+1804;cluster of stars;open_cluster
+1805;globular cluster;globular_cluster
+1806;globular cluster;globular_cluster
+1807;open (galactic) cluster;open_cluster
 1808;seyfert 2 galaxy;galaxy
 1809;galaxy in group of galaxies;galaxy
-1810;cluster of stars;open cluster
+1810;cluster of stars;open_cluster
 1811;galaxy in pair of galaxies;galaxy
 1812;galaxy in pair of galaxies;galaxy
-1813;cluster of stars;open cluster
-1814;cluster of stars;open cluster
-1815;cluster of stars;open cluster
-1816;cluster of stars;open cluster
-1817;open (galactic) cluster;open cluster
-1818;globular cluster;globular cluster
+1813;cluster of stars;open_cluster
+1814;cluster of stars;open_cluster
+1815;cluster of stars;open_cluster
+1816;cluster of stars;open_cluster
+1817;open (galactic) cluster;open_cluster
+1818;globular cluster;globular_cluster
 1819;galaxy in cluster of galaxies;galaxy
-1820;cluster of stars;open cluster
+1820;cluster of stars;open_cluster
 1821;galaxy;galaxy
-1822;cluster of stars;open cluster
-1823;cluster of stars;open cluster
+1822;cluster of stars;open_cluster
+1823;cluster of stars;open_cluster
 1824;galaxy;galaxy
-1825;cluster of stars;open cluster
-1826;cluster of stars;open cluster
+1825;cluster of stars;open_cluster
+1826;cluster of stars;open_cluster
 1827;emission-line galaxy;galaxy
-1828;cluster of stars;open cluster
-1829;cluster of stars;open cluster
-1830;cluster of stars;open cluster
-1831;globular cluster;globular cluster
+1828;cluster of stars;open_cluster
+1829;cluster of stars;open_cluster
+1830;cluster of stars;open_cluster
+1831;globular cluster;globular_cluster
 1832;galaxy;galaxy
 1833;emission object;nebula
-1834;cluster of stars;open cluster
-1835;cluster of stars;open cluster
-1836;cluster of stars;open cluster
-1838;cluster of stars;open cluster
-1839;cluster of stars;open cluster
-1840;cluster of stars;open cluster
-1841;globular cluster;globular cluster
-1842;cluster of stars;open cluster
+1834;cluster of stars;open_cluster
+1835;cluster of stars;open_cluster
+1836;cluster of stars;open_cluster
+1838;cluster of stars;open_cluster
+1839;cluster of stars;open_cluster
+1840;cluster of stars;open_cluster
+1841;globular cluster;globular_cluster
+1842;cluster of stars;open_cluster
 1843;galaxy in group of galaxies;galaxy
-1844;cluster of stars;open cluster
-1845;association of stars;open cluster
-1846;cluster of stars;open cluster
-1847;cluster of stars;open cluster
-1848;association of stars;open cluster
-1849;cluster of stars;open cluster
-1850;cluster of stars;open cluster
-1851;globular cluster;globular cluster
-1852;cluster of stars;open cluster
+1844;cluster of stars;open_cluster
+1845;association of stars;open_cluster
+1846;cluster of stars;open_cluster
+1847;cluster of stars;open_cluster
+1848;association of stars;open_cluster
+1849;cluster of stars;open_cluster
+1850;cluster of stars;open_cluster
+1851;globular cluster;globular_cluster
+1852;cluster of stars;open_cluster
 1853;galaxy;galaxy
-1855;cluster of stars;open cluster
-1856;cluster of stars;open cluster
-1857;open (galactic) cluster;open cluster
-1858;cluster of stars;open cluster
-1859;cluster of stars;open cluster
-1860;cluster of stars;open cluster
-1861;cluster of stars;open cluster
-1862;cluster of stars;open cluster
-1863;cluster of stars;open cluster
-1864;cluster of stars;open cluster
-1865;cluster of stars;open cluster
-1866;globular cluster;globular cluster
-1867;cluster of stars;open cluster
-1868;globular cluster;globular cluster
-1869;association of stars;open cluster
-1870;cluster of stars;open cluster
-1871;association of stars;open cluster
-1872;cluster of stars;open cluster
-1873;association of stars;open cluster
-1874;cluster of stars;open cluster
+1855;cluster of stars;open_cluster
+1856;cluster of stars;open_cluster
+1857;open (galactic) cluster;open_cluster
+1858;cluster of stars;open_cluster
+1859;cluster of stars;open_cluster
+1860;cluster of stars;open_cluster
+1861;cluster of stars;open_cluster
+1862;cluster of stars;open_cluster
+1863;cluster of stars;open_cluster
+1864;cluster of stars;open_cluster
+1865;cluster of stars;open_cluster
+1866;globular cluster;globular_cluster
+1867;cluster of stars;open_cluster
+1868;globular cluster;globular_cluster
+1869;association of stars;open_cluster
+1870;cluster of stars;open_cluster
+1871;association of stars;open_cluster
+1872;cluster of stars;open_cluster
+1873;association of stars;open_cluster
+1874;cluster of stars;open_cluster
 1875;interacting galaxies;galaxy
-1876;cluster of stars;open cluster
-1877;cluster of stars;open cluster
-1878;cluster of stars;open cluster
+1876;cluster of stars;open_cluster
+1877;cluster of stars;open_cluster
+1878;cluster of stars;open_cluster
 1879;galaxy;galaxy
-1880;cluster of stars;open cluster
-1881;cluster of stars;open cluster
-1882;cluster of stars;open cluster
-1883;open (galactic) cluster;open cluster
-1885;cluster of stars;open cluster
+1880;cluster of stars;open_cluster
+1881;cluster of stars;open_cluster
+1882;cluster of stars;open_cluster
+1883;open (galactic) cluster;open_cluster
+1885;cluster of stars;open_cluster
 1886;emission-line galaxy;galaxy
-1887;cluster of stars;open cluster
+1887;cluster of stars;open_cluster
 1888;interacting galaxies;galaxy
 1889;galaxy;galaxy
-1890;cluster of stars;open cluster
-1891;cluster of stars;open cluster
+1890;cluster of stars;open_cluster
+1891;cluster of stars;open_cluster
 1892;galaxy in group of galaxies;galaxy
-1893;open (galactic) cluster;open cluster
-1894;cluster of stars;open cluster
-1895;cluster of stars;open cluster
-1896;open (galactic) cluster;open cluster
-1897;cluster of stars;open cluster
-1898;association of stars;open cluster
+1893;open (galactic) cluster;open_cluster
+1894;cluster of stars;open_cluster
+1895;cluster of stars;open_cluster
+1896;open (galactic) cluster;open_cluster
+1897;cluster of stars;open_cluster
+1898;association of stars;open_cluster
 1899;hii (ionized) region;nebula
-1900;cluster of stars;open cluster
-1901;open (galactic) cluster;open cluster
-1902;cluster of stars;open cluster
-1903;cluster of stars;open cluster
-1905;cluster of stars;open cluster
+1900;cluster of stars;open_cluster
+1901;open (galactic) cluster;open_cluster
+1902;cluster of stars;open_cluster
+1903;cluster of stars;open_cluster
+1905;cluster of stars;open_cluster
 1906;galaxy in group of galaxies;galaxy
-1907;open (galactic) cluster;open cluster
+1907;open (galactic) cluster;open_cluster
 1909;reflection nebula;nebula
-1910;association of stars;open cluster
-1911;cluster of stars;open cluster
-1913;cluster of stars;open cluster
-1914;association of stars;open cluster
-1915;cluster of stars;open cluster
-1916;cluster of stars;open cluster
-1917;cluster of stars;open cluster
+1910;association of stars;open_cluster
+1911;cluster of stars;open_cluster
+1913;cluster of stars;open_cluster
+1914;association of stars;open_cluster
+1915;cluster of stars;open_cluster
+1916;cluster of stars;open_cluster
+1917;cluster of stars;open_cluster
 1918;supernova remnant;nebula
-1919;cluster of stars;open cluster
-1920;cluster of stars;open cluster
-1922;cluster of stars;open cluster
-1923;association of stars;open cluster
+1919;cluster of stars;open_cluster
+1920;cluster of stars;open_cluster
+1922;cluster of stars;open_cluster
+1923;association of stars;open_cluster
 1924;emission-line galaxy;galaxy
-1925;association of stars;open cluster
-1926;cluster of stars;open cluster
-1928;cluster of stars;open cluster
-1929;cluster of stars;open cluster
+1925;association of stars;open_cluster
+1926;cluster of stars;open_cluster
+1928;cluster of stars;open_cluster
+1929;cluster of stars;open_cluster
 1930;galaxy;galaxy
-1931;open (galactic) cluster;open cluster
-1932;cluster of stars;open cluster
+1931;open (galactic) cluster;open_cluster
+1932;cluster of stars;open_cluster
 1934;interstellar matter;nebula
-1935;association of stars;open cluster
-1937;association of stars;open cluster
-1938;cluster of stars;open cluster
-1939;cluster of stars;open cluster
-1940;cluster of stars;open cluster
-1941;cluster of stars;open cluster
-1942;cluster of stars;open cluster
-1943;cluster of stars;open cluster
-1944;cluster of stars;open cluster
+1935;association of stars;open_cluster
+1937;association of stars;open_cluster
+1938;cluster of stars;open_cluster
+1939;cluster of stars;open_cluster
+1940;cluster of stars;open_cluster
+1941;cluster of stars;open_cluster
+1942;cluster of stars;open_cluster
+1943;cluster of stars;open_cluster
+1944;cluster of stars;open_cluster
 1945;emission object;nebula
-1946;cluster of stars;open cluster
+1946;cluster of stars;open_cluster
 1947;galaxy in group of galaxies;galaxy
-1948;association of stars;open cluster
-1949;cluster of stars;open cluster
-1950;cluster of stars;open cluster
-1951;cluster of stars;open cluster
-1953;cluster of stars;open cluster
+1948;association of stars;open_cluster
+1949;cluster of stars;open_cluster
+1950;cluster of stars;open_cluster
+1951;cluster of stars;open_cluster
+1953;cluster of stars;open_cluster
 1954;galaxy in group of galaxies;galaxy
-1955;association of stars;open cluster
+1955;association of stars;open_cluster
 1956;galaxy in group of galaxies;galaxy
 1957;galaxy in group of galaxies;galaxy
-1958;cluster of stars;open cluster
-1959;cluster of stars;open cluster
+1958;cluster of stars;open_cluster
+1959;cluster of stars;open_cluster
 1961;liner-type active galaxy nucleus;galaxy
 1962;interstellar matter;nebula
-1963;open (galactic) cluster;open cluster
+1963;open (galactic) cluster;open_cluster
 1964;galaxy in group of galaxies;galaxy
 1965;interstellar matter;nebula
-1966;cluster of stars;open cluster
-1967;cluster of stars;open cluster
-1968;association of stars;open cluster
-1969;cluster of stars;open cluster
+1966;cluster of stars;open_cluster
+1967;cluster of stars;open_cluster
+1968;association of stars;open_cluster
+1969;cluster of stars;open_cluster
 1970;interstellar matter;nebula
-1971;cluster of stars;open cluster
-1972;cluster of stars;open cluster
+1971;cluster of stars;open_cluster
+1972;cluster of stars;open_cluster
 1973;galactic nebula;nebula
-1974;cluster of stars;open cluster
+1974;cluster of stars;open_cluster
 1975;galactic nebula;nebula
-1978;globular cluster;globular cluster
+1978;globular cluster;globular_cluster
 1979;galaxy in group of galaxies;galaxy
-1980;open (galactic) cluster;open cluster
-1981;open (galactic) cluster;open cluster
-1983;cluster of stars;open cluster
-1984;cluster of stars;open cluster
+1980;open (galactic) cluster;open_cluster
+1981;open (galactic) cluster;open_cluster
+1983;cluster of stars;open_cluster
+1984;cluster of stars;open_cluster
 1985;reflection nebula;nebula
-1986;cluster of stars;open cluster
-1987;globular cluster;globular cluster
+1986;cluster of stars;open_cluster
+1987;globular cluster;globular_cluster
 1989;brightest galaxy in a cluster (bcg);galaxy
 1990;hii (ionized) region;nebula
 1992;galaxy;galaxy
 1993;galaxy in group of galaxies;galaxy
-1994;cluster of stars;open cluster
+1994;cluster of stars;open_cluster
 1995;galaxy;galaxy
-1996;open (galactic) cluster;open cluster
-1997;cluster of stars;open cluster
+1996;open (galactic) cluster;open_cluster
+1997;cluster of stars;open_cluster
 1999;reflection nebula;nebula
-2000;cluster of stars;open cluster
-2001;association of stars;open cluster
-2002;cluster of stars;open cluster
-2003;cluster of stars;open cluster
-2004;cluster of stars;open cluster
-2005;cluster of stars;open cluster
-2006;cluster of stars;open cluster
+2000;cluster of stars;open_cluster
+2001;association of stars;open_cluster
+2002;cluster of stars;open_cluster
+2003;cluster of stars;open_cluster
+2004;cluster of stars;open_cluster
+2005;cluster of stars;open_cluster
+2006;cluster of stars;open_cluster
 2007;galaxy;galaxy
 2008;galaxy;galaxy
-2009;cluster of stars;open cluster
-2010;cluster of stars;open cluster
-2011;cluster of stars;open cluster
+2009;cluster of stars;open_cluster
+2010;cluster of stars;open_cluster
+2011;cluster of stars;open_cluster
 2012;galaxy;galaxy
-2013;open (galactic) cluster;open cluster
-2014;association of stars;open cluster
-2015;association of stars;open cluster
-2016;cluster of stars;open cluster
-2017;open (galactic) cluster;open cluster
-2018;association of stars;open cluster
-2019;cluster of stars;open cluster
+2013;open (galactic) cluster;open_cluster
+2014;association of stars;open_cluster
+2015;association of stars;open_cluster
+2016;cluster of stars;open_cluster
+2017;open (galactic) cluster;open_cluster
+2018;association of stars;open_cluster
+2019;cluster of stars;open_cluster
 2020;emission object;nebula
-2021;association of stars;open cluster
-2022;planetary nebula;planetary nebula
+2021;association of stars;open_cluster
+2022;planetary nebula;planetary_nebula
 2023;reflection nebula;nebula
-2024;cluster of stars;open cluster
-2025;cluster of stars;open cluster
-2026;possible (open) star cluster;open cluster
-2027;cluster of stars;open cluster
-2028;cluster of stars;open cluster
+2024;cluster of stars;open_cluster
+2025;cluster of stars;open_cluster
+2026;possible (open) star cluster;open_cluster
+2027;cluster of stars;open_cluster
+2028;cluster of stars;open_cluster
 2029;supernova remnant;nebula
 2030;hii (ionized) region;nebula
-2031;globular cluster;globular cluster
+2031;globular cluster;globular_cluster
 2032;hii (ionized) region;nebula
-2033;association of stars;open cluster
-2034;association of stars;open cluster
+2033;association of stars;open_cluster
+2034;association of stars;open_cluster
 2035;interstellar matter;nebula
-2036;cluster of stars;open cluster
+2036;cluster of stars;open_cluster
 2037;interstellar matter;nebula
-2038;cluster of stars;open cluster
-2039;possible (open) star cluster;open cluster
-2040;association of stars;open cluster
-2041;cluster of stars;open cluster
-2042;cluster of stars;open cluster
-2043;cluster of stars;open cluster
-2044;association of stars;open cluster
+2038;cluster of stars;open_cluster
+2039;possible (open) star cluster;open_cluster
+2040;association of stars;open_cluster
+2041;cluster of stars;open_cluster
+2042;cluster of stars;open_cluster
+2043;cluster of stars;open_cluster
+2044;association of stars;open_cluster
 2045;interstellar matter;nebula
-2046;cluster of stars;open cluster
-2047;cluster of stars;open cluster
+2046;cluster of stars;open_cluster
+2047;cluster of stars;open_cluster
 2048;emission object;nebula
 2049;galaxy in group of galaxies;galaxy
-2050;association of stars;open cluster
-2051;cluster of stars;open cluster
-2053;cluster of stars;open cluster
-2055;association of stars;open cluster
-2056;cluster of stars;open cluster
-2057;cluster of stars;open cluster
-2058;cluster of stars;open cluster
-2059;cluster of stars;open cluster
+2050;association of stars;open_cluster
+2051;cluster of stars;open_cluster
+2053;cluster of stars;open_cluster
+2055;association of stars;open_cluster
+2056;cluster of stars;open_cluster
+2057;cluster of stars;open_cluster
+2058;cluster of stars;open_cluster
+2059;cluster of stars;open_cluster
 2060;supernova remnant;nebula
-2061;cluster of stars;open cluster
-2062;cluster of stars;open cluster
+2061;cluster of stars;open_cluster
+2062;cluster of stars;open_cluster
 2064;reflection nebula;nebula
-2065;cluster of stars;open cluster
-2066;cluster of stars;open cluster
+2065;cluster of stars;open_cluster
+2066;cluster of stars;open_cluster
 2067;reflection nebula;nebula
 2069;interstellar matter;nebula
-2070;cluster of stars;open cluster
+2070;cluster of stars;open_cluster
 2071;reflection nebula;nebula
-2072;cluster of stars;open cluster
+2072;cluster of stars;open_cluster
 2073;galaxy;galaxy
-2074;association of stars;open cluster
-2075;cluster of stars;open cluster
+2074;association of stars;open_cluster
+2075;cluster of stars;open_cluster
 2076;galaxy in group of galaxies;galaxy
-2077;cluster of stars;open cluster
+2077;cluster of stars;open_cluster
 2078;emission object;nebula
-2079;cluster of stars;open cluster
+2079;cluster of stars;open_cluster
 2080;hii (ionized) region;nebula
 2081;hii (ionized) region;nebula
 2082;galaxy in group of galaxies;galaxy
-2083;cluster of stars;open cluster
-2084;cluster of stars;open cluster
-2085;cluster of stars;open cluster
-2086;cluster of stars;open cluster
+2083;cluster of stars;open_cluster
+2084;cluster of stars;open_cluster
+2085;cluster of stars;open_cluster
+2086;cluster of stars;open_cluster
 2087;galaxy;galaxy
-2088;cluster of stars;open cluster
+2088;cluster of stars;open_cluster
 2089;galaxy in group of galaxies;galaxy
 2090;galaxy in group of galaxies;galaxy
-2091;cluster of stars;open cluster
-2092;cluster of stars;open cluster
-2093;association of stars;open cluster
-2094;cluster of stars;open cluster
-2095;cluster of stars;open cluster
-2096;cluster of stars;open cluster
-2097;cluster of stars;open cluster
-2098;cluster of stars;open cluster
-2100;cluster of stars;open cluster
+2091;cluster of stars;open_cluster
+2092;cluster of stars;open_cluster
+2093;association of stars;open_cluster
+2094;cluster of stars;open_cluster
+2095;cluster of stars;open_cluster
+2096;cluster of stars;open_cluster
+2097;cluster of stars;open_cluster
+2098;cluster of stars;open_cluster
+2100;cluster of stars;open_cluster
 2101;galaxy;galaxy
-2102;cluster of stars;open cluster
-2103;association of stars;open cluster
+2102;cluster of stars;open_cluster
+2103;association of stars;open_cluster
 2104;emission-line galaxy;galaxy
-2105;cluster of stars;open cluster
+2105;cluster of stars;open_cluster
 2106;galaxy in group of galaxies;galaxy
-2107;cluster of stars;open cluster
-2108;globular cluster;globular cluster
-2109;cluster of stars;open cluster
+2107;cluster of stars;open_cluster
+2108;globular cluster;globular_cluster
+2109;cluster of stars;open_cluster
 2110;seyfert 2 galaxy;galaxy
-2111;cluster of stars;open cluster
-2112;open (galactic) cluster;open cluster
-2113;cluster of stars;open cluster
-2114;open (galactic) cluster;open cluster
+2111;cluster of stars;open_cluster
+2112;open (galactic) cluster;open_cluster
+2113;cluster of stars;open_cluster
+2114;open (galactic) cluster;open_cluster
 2115;galaxy;galaxy
-2116;open (galactic) cluster;open cluster
-2117;open (galactic) cluster;open cluster
-2118;cluster of stars;open cluster
+2116;open (galactic) cluster;open_cluster
+2117;open (galactic) cluster;open_cluster
+2118;cluster of stars;open_cluster
 2119;galaxy;galaxy
-2120;cluster of stars;open cluster
-2121;cluster of stars;open cluster
-2122;association of stars;open cluster
-2123;cluster of stars;open cluster
+2120;cluster of stars;open_cluster
+2121;cluster of stars;open_cluster
+2122;association of stars;open_cluster
+2123;cluster of stars;open_cluster
 2124;galaxy in group of galaxies;galaxy
-2125;cluster of stars;open cluster
-2126;open (galactic) cluster;open cluster
-2127;cluster of stars;open cluster
+2125;cluster of stars;open_cluster
+2126;open (galactic) cluster;open_cluster
+2127;cluster of stars;open_cluster
 2128;galaxy;galaxy
-2129;open (galactic) cluster;open cluster
-2130;cluster of stars;open cluster
+2129;open (galactic) cluster;open_cluster
+2130;cluster of stars;open_cluster
 2131;galaxy;galaxy
-2132;open (galactic) cluster;open cluster
-2133;cluster of stars;open cluster
-2134;cluster of stars;open cluster
-2135;open (galactic) cluster;open cluster
-2136;cluster of stars;open cluster
-2137;cluster of stars;open cluster
-2138;cluster of stars;open cluster
+2132;open (galactic) cluster;open_cluster
+2133;cluster of stars;open_cluster
+2134;cluster of stars;open_cluster
+2135;open (galactic) cluster;open_cluster
+2136;cluster of stars;open_cluster
+2137;cluster of stars;open_cluster
+2138;cluster of stars;open_cluster
 2139;emission-line galaxy;galaxy
-2140;open (galactic) cluster;open cluster
-2141;open (galactic) cluster;open cluster
-2143;open (galactic) cluster;open cluster
+2140;open (galactic) cluster;open_cluster
+2141;open (galactic) cluster;open_cluster
+2143;open (galactic) cluster;open_cluster
 2144;galaxy;galaxy
-2145;cluster of stars;open cluster
+2145;cluster of stars;open_cluster
 2146;starburst galaxy;galaxy
-2147;cluster of stars;open cluster
+2147;cluster of stars;open_cluster
 2148;galaxy;galaxy
 2149;reflection nebula;nebula
 2150;galaxy in group of galaxies;galaxy
-2151;cluster of stars;open cluster
+2151;cluster of stars;open_cluster
 2152;galaxy in group of galaxies;galaxy
-2153;cluster of stars;open cluster
-2154;cluster of stars;open cluster
-2155;cluster of stars;open cluster
-2156;globular cluster;globular cluster
-2157;cluster of stars;open cluster
-2158;open (galactic) cluster;open cluster
-2159;globular cluster;globular cluster
-2160;open (galactic) cluster;open cluster
-2161;cluster of stars;open cluster
-2162;globular cluster;globular cluster
+2153;cluster of stars;open_cluster
+2154;cluster of stars;open_cluster
+2155;cluster of stars;open_cluster
+2156;globular cluster;globular_cluster
+2157;cluster of stars;open_cluster
+2158;open (galactic) cluster;open_cluster
+2159;globular cluster;globular_cluster
+2160;open (galactic) cluster;open_cluster
+2161;cluster of stars;open_cluster
+2162;globular cluster;globular_cluster
 2163;reflection nebula;nebula
-2164;open (galactic) cluster;open cluster
-2165;open (galactic) cluster;open cluster
-2166;open (galactic) cluster;open cluster
-2168;open (galactic) cluster;open cluster
-2169;open (galactic) cluster;open cluster
+2164;open (galactic) cluster;open_cluster
+2165;open (galactic) cluster;open_cluster
+2166;open (galactic) cluster;open_cluster
+2168;open (galactic) cluster;open_cluster
+2169;open (galactic) cluster;open_cluster
 2170;reflection nebula;nebula
-2171;cluster of stars;open cluster
-2172;open (galactic) cluster;open cluster
-2173;globular cluster;globular cluster
+2171;cluster of stars;open_cluster
+2172;open (galactic) cluster;open_cluster
+2173;globular cluster;globular_cluster
 2174;hii (ionized) region;nebula
-2175;open (galactic) cluster;open cluster
-2176;cluster of stars;open cluster
-2177;open (galactic) cluster;open cluster
+2175;open (galactic) cluster;open_cluster
+2176;cluster of stars;open_cluster
+2177;open (galactic) cluster;open_cluster
 2178;galaxy;galaxy
 2179;galaxy in group of galaxies;galaxy
-2180;open (galactic) cluster;open cluster
-2181;cluster of stars;open cluster
+2180;open (galactic) cluster;open_cluster
+2181;cluster of stars;open_cluster
 2182;reflection nebula;nebula
 2183;reflection nebula;nebula
-2184;open (galactic) cluster;open cluster
+2184;open (galactic) cluster;open_cluster
 2185;reflection nebula;nebula
-2186;open (galactic) cluster;open cluster
+2186;open (galactic) cluster;open_cluster
 2187;galaxy;galaxy
 2188;emission-line galaxy;galaxy
-2189;open (galactic) cluster;open cluster
-2190;globular cluster;globular cluster
+2189;open (galactic) cluster;open_cluster
+2190;globular cluster;globular_cluster
 2191;galaxy;galaxy
-2192;open (galactic) cluster;open cluster
-2193;cluster of stars;open cluster
-2194;open (galactic) cluster;open cluster
+2192;open (galactic) cluster;open_cluster
+2193;cluster of stars;open_cluster
+2194;open (galactic) cluster;open_cluster
 2195;interstellar matter;nebula
 2196;emission-line galaxy;galaxy
-2197;cluster of stars;open cluster
+2197;cluster of stars;open_cluster
 2199;galaxy;galaxy
 2200;galaxy;galaxy
 2201;galaxy;galaxy
-2202;open (galactic) cluster;open cluster
-2203;cluster of stars;open cluster
-2204;open (galactic) cluster;open cluster
+2202;open (galactic) cluster;open_cluster
+2203;cluster of stars;open_cluster
+2204;open (galactic) cluster;open_cluster
 2205;galaxy;galaxy
 2206;galaxy in group of galaxies;galaxy
 2207;interacting galaxies;galaxy
 2208;galaxy;galaxy
-2209;globular cluster;globular cluster
-2210;globular cluster;globular cluster
+2209;globular cluster;globular_cluster
+2210;globular cluster;globular_cluster
 2211;galaxy in group of galaxies;galaxy
 2212;galaxy;galaxy
-2213;cluster of stars;open cluster
-2214;open (galactic) cluster;open cluster
-2215;open (galactic) cluster;open cluster
+2213;cluster of stars;open_cluster
+2214;open (galactic) cluster;open_cluster
+2215;open (galactic) cluster;open_cluster
 2216;emission-line galaxy;galaxy
 2217;liner-type active galaxy nucleus;galaxy
-2219;open (galactic) cluster;open cluster
-2220;open (galactic) cluster;open cluster
+2219;open (galactic) cluster;open_cluster
+2220;open (galactic) cluster;open_cluster
 2221;interacting galaxies;galaxy
 2222;interacting galaxies;galaxy
 2223;galaxy in group of galaxies;galaxy
-2224;open (galactic) cluster;open cluster
-2225;open (galactic) cluster;open cluster
+2224;open (galactic) cluster;open_cluster
+2225;open (galactic) cluster;open_cluster
 2227;galaxy in group of galaxies;galaxy
 2228;galaxy in group of galaxies;galaxy
 2229;galaxy in group of galaxies;galaxy
 2230;galaxy in group of galaxies;galaxy
-2231;globular cluster;globular cluster
-2232;open (galactic) cluster;open cluster
+2231;globular cluster;globular_cluster
+2232;open (galactic) cluster;open_cluster
 2233;galaxy in group of galaxies;galaxy
-2234;open (galactic) cluster;open cluster
+2234;open (galactic) cluster;open_cluster
 2235;brightest galaxy in a cluster (bcg);galaxy
-2236;open (galactic) cluster;open cluster
-2237;cluster of stars;open cluster
+2236;open (galactic) cluster;open_cluster
+2237;cluster of stars;open_cluster
 2238;hii (ionized) region;nebula
-2240;open (galactic) cluster;open cluster
-2241;cluster of stars;open cluster
-2242;planetary nebula;planetary nebula
-2243;open (galactic) cluster;open cluster
-2244;open (galactic) cluster;open cluster
+2240;open (galactic) cluster;open_cluster
+2241;cluster of stars;open_cluster
+2242;planetary nebula;planetary_nebula
+2243;open (galactic) cluster;open_cluster
+2244;open (galactic) cluster;open_cluster
 2245;reflection nebula;nebula
 2246;galactic nebula;nebula
 2247;reflection nebula;nebula
-2248;possible (open) star cluster;open cluster
-2249;globular cluster;globular cluster
-2250;open (galactic) cluster;open cluster
-2251;open (galactic) cluster;open cluster
-2252;open (galactic) cluster;open cluster
+2248;possible (open) star cluster;open_cluster
+2249;globular cluster;globular_cluster
+2250;open (galactic) cluster;open_cluster
+2251;open (galactic) cluster;open_cluster
+2252;open (galactic) cluster;open_cluster
 2253;galaxy;galaxy
-2254;open (galactic) cluster;open cluster
+2254;open (galactic) cluster;open_cluster
 2255;brightest galaxy in a cluster (bcg);galaxy
 2256;galaxy in group of galaxies;galaxy
-2257;cluster of stars;open cluster
+2257;cluster of stars;open_cluster
 2258;active galaxy nucleus;galaxy
-2259;open (galactic) cluster;open cluster
-2260;open (galactic) cluster;open cluster
-2262;open (galactic) cluster;open cluster
+2259;open (galactic) cluster;open_cluster
+2260;open (galactic) cluster;open_cluster
+2262;open (galactic) cluster;open_cluster
 2263;galaxy in group of galaxies;galaxy
-2264;open (galactic) cluster;open cluster
-2265;open (galactic) cluster;open cluster
-2266;open (galactic) cluster;open cluster
+2264;open (galactic) cluster;open_cluster
+2265;open (galactic) cluster;open_cluster
+2266;open (galactic) cluster;open_cluster
 2267;galaxy;galaxy
 2268;galaxy in group of galaxies;galaxy
-2269;open (galactic) cluster;open cluster
-2270;open (galactic) cluster;open cluster
+2269;open (galactic) cluster;open_cluster
+2270;open (galactic) cluster;open_cluster
 2271;galaxy;galaxy
 2272;galaxy in group of galaxies;galaxy
 2273;seyfert 2 galaxy;galaxy
@@ -2084,10 +2084,10 @@
 2275;galaxy in pair of galaxies;galaxy
 2276;interacting galaxies;galaxy
 2280;emission-line galaxy;galaxy
-2281;open (galactic) cluster;open cluster
+2281;open (galactic) cluster;open_cluster
 2282;reflection nebula;nebula
 2283;galaxy;galaxy
-2286;open (galactic) cluster;open cluster
+2286;open (galactic) cluster;open_cluster
 2288;galaxy in group of galaxies;galaxy
 2289;galaxy in group of galaxies;galaxy
 2290;galaxy in group of galaxies;galaxy
@@ -2098,148 +2098,148 @@
 2295;galaxy in group of galaxies;galaxy
 2296;reflection nebula;nebula
 2297;galaxy in group of galaxies;galaxy
-2298;globular cluster;globular cluster
+2298;globular cluster;globular_cluster
 2300;interacting galaxies;galaxy
-2301;open (galactic) cluster;open cluster
-2302;open (galactic) cluster;open cluster
+2301;open (galactic) cluster;open_cluster
+2302;open (galactic) cluster;open_cluster
 2303;galaxy in group of galaxies;galaxy
-2304;open (galactic) cluster;open cluster
+2304;open (galactic) cluster;open_cluster
 2305;galaxy in group of galaxies;galaxy
-2306;open (galactic) cluster;open cluster
+2306;open (galactic) cluster;open_cluster
 2307;galaxy in group of galaxies;galaxy
 2308;galaxy in group of galaxies;galaxy
-2309;open (galactic) cluster;open cluster
+2309;open (galactic) cluster;open_cluster
 2310;galaxy;galaxy
-2311;open (galactic) cluster;open cluster
-2312;open (galactic) cluster;open cluster
+2311;open (galactic) cluster;open_cluster
+2312;open (galactic) cluster;open_cluster
 2314;galaxy in group of galaxies;galaxy
 2315;radio galaxy;galaxy
-2316;cluster of stars;open cluster
-2318;open (galactic) cluster;open cluster
+2316;cluster of stars;open_cluster
+2318;open (galactic) cluster;open_cluster
 2320;galaxy in group of galaxies;galaxy
 2321;galaxy in group of galaxies;galaxy
 2322;galaxy in group of galaxies;galaxy
-2323;open (galactic) cluster;open cluster
-2324;open (galactic) cluster;open cluster
+2323;open (galactic) cluster;open_cluster
+2324;open (galactic) cluster;open_cluster
 2325;active galaxy nucleus;galaxy
 2326;radio galaxy;galaxy
 2327;reflection nebula;nebula
 2328;galaxy;galaxy
 2329;active galaxy nucleus;galaxy
 2330;galaxy in cluster of galaxies;galaxy
-2331;open (galactic) cluster;open cluster
+2331;open (galactic) cluster;open_cluster
 2332;blazar;galaxy
 2333;galaxy in group of galaxies;galaxy
-2335;open (galactic) cluster;open cluster
+2335;open (galactic) cluster;open_cluster
 2336;galaxy in pair of galaxies;galaxy
 2337;galaxy;galaxy
-2338;open (galactic) cluster;open cluster
+2338;open (galactic) cluster;open_cluster
 2339;hii galaxy;galaxy
 2340;galaxy in group of galaxies;galaxy
 2341;galaxy;galaxy
 2342;hii galaxy;galaxy
-2343;open (galactic) cluster;open cluster
+2343;open (galactic) cluster;open_cluster
 2344;radio galaxy;galaxy
-2345;open (galactic) cluster;open cluster
-2346;planetary nebula;planetary nebula
+2345;open (galactic) cluster;open_cluster
+2346;planetary nebula;planetary_nebula
 2347;liner-type active galaxy nucleus;galaxy
-2348;cluster of stars;open cluster
-2349;open (galactic) cluster;open cluster
+2348;cluster of stars;open_cluster
+2349;open (galactic) cluster;open_cluster
 2350;galaxy;galaxy
-2351;open (galactic) cluster;open cluster
-2352;open (galactic) cluster;open cluster
-2353;open (galactic) cluster;open cluster
-2354;open (galactic) cluster;open cluster
-2355;open (galactic) cluster;open cluster
+2351;open (galactic) cluster;open_cluster
+2352;open (galactic) cluster;open_cluster
+2353;open (galactic) cluster;open_cluster
+2354;open (galactic) cluster;open_cluster
+2355;open (galactic) cluster;open_cluster
 2357;galaxy in group of galaxies;galaxy
-2358;open (galactic) cluster;open cluster
+2358;open (galactic) cluster;open_cluster
 2359;hii (ionized) region;nebula
-2360;open (galactic) cluster;open cluster
-2362;open (galactic) cluster;open cluster
+2360;open (galactic) cluster;open_cluster
+2362;open (galactic) cluster;open_cluster
 2363;galaxy;galaxy
-2364;open (galactic) cluster;open cluster
+2364;open (galactic) cluster;open_cluster
 2365;galaxy in group of galaxies;galaxy
 2366;hii galaxy;galaxy
-2367;open (galactic) cluster;open cluster
-2368;open (galactic) cluster;open cluster
+2367;open (galactic) cluster;open_cluster
+2368;open (galactic) cluster;open_cluster
 2369;galaxy in group of galaxies;galaxy
 2370;galaxy in group of galaxies;galaxy
-2371;planetary nebula;planetary nebula
+2371;planetary nebula;planetary_nebula
 2373;galaxy;galaxy
-2374;open (galactic) cluster;open cluster
+2374;open (galactic) cluster;open_cluster
 2375;galaxy;galaxy
 2376;galaxy;galaxy
 2377;active galaxy nucleus;galaxy
 2379;galaxy in group of galaxies;galaxy
 2380;galaxy in group of galaxies;galaxy
 2381;galaxy in group of galaxies;galaxy
-2383;open (galactic) cluster;open cluster
-2384;open (galactic) cluster;open cluster
+2383;open (galactic) cluster;open_cluster
+2384;open (galactic) cluster;open_cluster
 2385;galaxy in group of galaxies;galaxy
 2387;galaxy;galaxy
 2388;galaxy in group of galaxies;galaxy
 2389;galaxy in group of galaxies;galaxy
-2391;cluster of stars;open cluster
-2392;planetary nebula;planetary nebula
+2391;cluster of stars;open_cluster
+2392;planetary nebula;planetary_nebula
 2393;galaxy;galaxy
-2396;open (galactic) cluster;open cluster
+2396;open (galactic) cluster;open_cluster
 2397;galaxy in group of galaxies;galaxy
 2398;galaxy;galaxy
-2401;open (galactic) cluster;open cluster
+2401;open (galactic) cluster;open_cluster
 2402;galaxy;galaxy
 2403;active galaxy nucleus;galaxy
 2405;galaxy;galaxy
 2406;galaxy in group of galaxies;galaxy
 2407;galaxy in group of galaxies;galaxy
-2408;open (galactic) cluster;open cluster
-2409;open (galactic) cluster;open cluster
+2408;open (galactic) cluster;open_cluster
+2409;open (galactic) cluster;open_cluster
 2410;seyfert 2 galaxy;galaxy
 2411;galaxy in group of galaxies;galaxy
-2413;open (galactic) cluster;open cluster
-2414;open (galactic) cluster;open cluster
+2413;open (galactic) cluster;open_cluster
+2414;open (galactic) cluster;open_cluster
 2415;blue compact galaxy;galaxy
 2416;galaxy;galaxy
 2417;galaxy in group of galaxies;galaxy
 2418;interacting galaxies;galaxy
-2419;globular cluster;globular cluster
-2420;open (galactic) cluster;open cluster
-2421;open (galactic) cluster;open cluster
-2422;open (galactic) cluster;open cluster
-2423;open (galactic) cluster;open cluster
+2419;globular cluster;globular_cluster
+2420;open (galactic) cluster;open_cluster
+2421;open (galactic) cluster;open_cluster
+2422;open (galactic) cluster;open_cluster
+2423;open (galactic) cluster;open_cluster
 2424;liner-type active galaxy nucleus;galaxy
-2425;open (galactic) cluster;open cluster
+2425;open (galactic) cluster;open_cluster
 2426;galaxy in pair of galaxies;galaxy
 2427;galaxy in group of galaxies;galaxy
-2428;open (galactic) cluster;open cluster
+2428;open (galactic) cluster;open_cluster
 2429;galaxy in group of galaxies;galaxy
-2430;open (galactic) cluster;open cluster
+2430;open (galactic) cluster;open_cluster
 2431;galaxy in group of galaxies;galaxy
-2432;open (galactic) cluster;open cluster
-2433;double or multiple star;multiple star
+2432;open (galactic) cluster;open_cluster
+2433;double or multiple star;multiple_star
 2434;galaxy in group of galaxies;galaxy
 2435;galaxy;galaxy
-2437;open (galactic) cluster;open cluster
-2438;planetary nebula;planetary nebula
-2439;open (galactic) cluster;open cluster
-2440;planetary nebula;planetary nebula
+2437;open (galactic) cluster;open_cluster
+2438;planetary nebula;planetary_nebula
+2439;open (galactic) cluster;open_cluster
+2440;planetary nebula;planetary_nebula
 2441;galaxy in group of galaxies;galaxy
 2442;liner-type active galaxy nucleus;galaxy
 2444;interacting galaxies;galaxy
 2445;galaxy in pair of galaxies;galaxy
 2446;galaxy in group of galaxies;galaxy
-2447;open (galactic) cluster;open cluster
-2448;open (galactic) cluster;open cluster
+2447;open (galactic) cluster;open_cluster
+2448;open (galactic) cluster;open_cluster
 2449;liner-type active galaxy nucleus;galaxy
 2450;radio galaxy;galaxy
-2451;cluster of stars;open cluster
-2452;planetary nebula;planetary nebula
-2453;open (galactic) cluster;open cluster
+2451;cluster of stars;open_cluster
+2452;planetary nebula;planetary_nebula
+2453;open (galactic) cluster;open_cluster
 2454;liner-type active galaxy nucleus;galaxy
-2455;open (galactic) cluster;open cluster
+2455;open (galactic) cluster;open_cluster
 2456;galaxy in group of galaxies;galaxy
 2457;galaxy;galaxy
 2458;galaxy;galaxy
-2459;possible (open) star cluster;open cluster
+2459;possible (open) star cluster;open_cluster
 2460;active galaxy nucleus;galaxy
 2462;galaxy in group of galaxies;galaxy
 2463;galaxy in group of galaxies;galaxy
@@ -2253,17 +2253,17 @@
 2474;galaxy in pair of galaxies;galaxy
 2475;galaxy in pair of galaxies;galaxy
 2476;galaxy in group of galaxies;galaxy
-2477;open (galactic) cluster;open cluster
-2479;open (galactic) cluster;open cluster
+2477;open (galactic) cluster;open_cluster
+2479;open (galactic) cluster;open_cluster
 2480;galaxy in pair of galaxies;galaxy
 2481;galaxy in pair of galaxies;galaxy
-2482;open (galactic) cluster;open cluster
-2483;open (galactic) cluster;open cluster
+2482;open (galactic) cluster;open_cluster
+2483;open (galactic) cluster;open_cluster
 2485;galaxy;galaxy
 2486;seyfert 2 galaxy;galaxy
 2487;liner-type active galaxy nucleus;galaxy
 2488;galaxy in group of galaxies;galaxy
-2489;open (galactic) cluster;open cluster
+2489;open (galactic) cluster;open_cluster
 2490;galaxy;galaxy
 2491;brightest galaxy in a cluster (bcg);galaxy
 2492;galaxy in group of galaxies;galaxy
@@ -2280,16 +2280,16 @@
 2503;emission-line galaxy;galaxy
 2504;galaxy;galaxy
 2505;galaxy;galaxy
-2506;open (galactic) cluster;open cluster
+2506;open (galactic) cluster;open_cluster
 2507;galaxy in group of galaxies;galaxy
 2508;liner-type active galaxy nucleus;galaxy
-2509;open (galactic) cluster;open cluster
+2509;open (galactic) cluster;open_cluster
 2510;galaxy in group of galaxies;galaxy
 2511;galaxy in group of galaxies;galaxy
 2512;galaxy in group of galaxies;galaxy
 2513;galaxy in group of galaxies;galaxy
 2514;galaxy;galaxy
-2516;open (galactic) cluster;open cluster
+2516;open (galactic) cluster;open_cluster
 2517;galaxy;galaxy
 2518;galaxy;galaxy
 2521;galaxy;galaxy
@@ -2298,25 +2298,25 @@
 2524;liner-type active galaxy nucleus;galaxy
 2525;emission-line galaxy;galaxy
 2526;galaxy in pair of galaxies;galaxy
-2527;open (galactic) cluster;open cluster
+2527;open (galactic) cluster;open_cluster
 2528;radio galaxy;galaxy
 2529;galaxy in group of galaxies;galaxy
 2532;galaxy;galaxy
-2533;open (galactic) cluster;open cluster
+2533;open (galactic) cluster;open_cluster
 2534;liner-type active galaxy nucleus;galaxy
 2535;radio galaxy;galaxy
 2536;galaxy in pair of galaxies;galaxy
 2537;interacting galaxies;galaxy
 2538;galaxy;galaxy
-2539;open (galactic) cluster;open cluster
+2539;open (galactic) cluster;open_cluster
 2540;possible quasar;galaxy
 2541;galaxy in group of galaxies;galaxy
 2543;galaxy in pair of galaxies;galaxy
 2544;galaxy in pair of galaxies;galaxy
 2545;active galaxy nucleus;galaxy
-2546;open (galactic) cluster;open cluster
-2547;open (galactic) cluster;open cluster
-2548;open (galactic) cluster;open cluster
+2546;open (galactic) cluster;open_cluster
+2547;open (galactic) cluster;open_cluster
+2548;open (galactic) cluster;open_cluster
 2549;galaxy;galaxy
 2550;galaxy in group of galaxies;galaxy
 2551;galaxy in group of galaxies;galaxy
@@ -2335,10 +2335,10 @@
 2564;galaxy;galaxy
 2565;galaxy in group of galaxies;galaxy
 2566;galaxy in group of galaxies;galaxy
-2567;open (galactic) cluster;open cluster
+2567;open (galactic) cluster;open_cluster
 2569;liner-type active galaxy nucleus;galaxy
 2570;galaxy in cluster of galaxies;galaxy
-2571;open (galactic) cluster;open cluster
+2571;open (galactic) cluster;open_cluster
 2572;liner-type active galaxy nucleus;galaxy
 2573;galaxy;galaxy
 2574;galaxy;galaxy
@@ -2346,16 +2346,16 @@
 2576;liner-type active galaxy nucleus;galaxy
 2577;galaxy in pair of galaxies;galaxy
 2578;active galaxy nucleus;galaxy
-2579;open (galactic) cluster;open cluster
-2580;open (galactic) cluster;open cluster
+2579;open (galactic) cluster;open_cluster
+2580;open (galactic) cluster;open_cluster
 2581;galaxy;galaxy
 2582;liner-type active galaxy nucleus;galaxy
 2583;galaxy;galaxy
 2584;emission-line galaxy;galaxy
 2585;emission-line galaxy;galaxy
 2586;galaxy;galaxy
-2587;open (galactic) cluster;open cluster
-2588;open (galactic) cluster;open cluster
+2587;open (galactic) cluster;open_cluster
+2588;open (galactic) cluster;open_cluster
 2590;emission-line galaxy;galaxy
 2591;galaxy in group of galaxies;galaxy
 2592;galaxy;galaxy
@@ -2373,8 +2373,8 @@
 2605;galaxy;galaxy
 2607;liner-type active galaxy nucleus;galaxy
 2608;interacting galaxies;galaxy
-2609;open (galactic) cluster;open cluster
-2610;planetary nebula;planetary nebula
+2609;open (galactic) cluster;open_cluster
+2610;planetary nebula;planetary_nebula
 2611;radio galaxy;galaxy
 2612;galaxy;galaxy
 2613;emission-line galaxy;galaxy
@@ -2391,14 +2391,14 @@
 2624;liner-type active galaxy nucleus;galaxy
 2625;galaxy in group of galaxies;galaxy
 2626;reflection nebula;nebula
-2627;open (galactic) cluster;open cluster
+2627;open (galactic) cluster;open_cluster
 2628;seyfert 2 galaxy;galaxy
 2629;galaxy in group of galaxies;galaxy
 2630;galaxy in group of galaxies;galaxy
-2632;open (galactic) cluster;open cluster
+2632;open (galactic) cluster;open_cluster
 2633;galaxy in pair of galaxies;galaxy
 2634;galaxy in pair of galaxies;galaxy
-2635;open (galactic) cluster;open cluster
+2635;open (galactic) cluster;open_cluster
 2636;galaxy in group of galaxies;galaxy
 2637;galaxy;galaxy
 2638;liner-type active galaxy nucleus;galaxy
@@ -2408,7 +2408,7 @@
 2642;emission-line galaxy;galaxy
 2643;galaxy;galaxy
 2644;galaxy;galaxy
-2645;open (galactic) cluster;open cluster
+2645;open (galactic) cluster;open_cluster
 2646;galaxy in group of galaxies;galaxy
 2647;galaxy;galaxy
 2648;galaxy in pair of galaxies;galaxy
@@ -2419,31 +2419,31 @@
 2655;liner-type active galaxy nucleus;galaxy
 2656;brightest galaxy in a cluster (bcg);galaxy
 2657;galaxy;galaxy
-2658;open (galactic) cluster;open cluster
-2659;open (galactic) cluster;open cluster
-2660;open (galactic) cluster;open cluster
+2658;open (galactic) cluster;open_cluster
+2659;open (galactic) cluster;open_cluster
+2660;open (galactic) cluster;open_cluster
 2661;emission-line galaxy;galaxy
 2662;galaxy;galaxy
 2663;galaxy in group of galaxies;galaxy
-2664;open (galactic) cluster;open cluster
+2664;open (galactic) cluster;open_cluster
 2665;emission-line galaxy;galaxy
-2666;possible (open) star cluster;open cluster
+2666;possible (open) star cluster;open_cluster
 2667;galaxy in group of galaxies;galaxy
 2668;liner-type active galaxy nucleus;galaxy
-2669;open (galactic) cluster;open cluster
-2670;open (galactic) cluster;open cluster
-2671;open (galactic) cluster;open cluster
+2669;open (galactic) cluster;open_cluster
+2670;open (galactic) cluster;open_cluster
+2671;open (galactic) cluster;open_cluster
 2672;interacting galaxies;galaxy
 2673;galaxy in pair of galaxies;galaxy
 2674;galaxy;galaxy
 2675;liner-type active galaxy nucleus;galaxy
 2676;active galaxy nucleus;galaxy
 2677;galaxy in group of galaxies;galaxy
-2678;open (galactic) cluster;open cluster
+2678;open (galactic) cluster;open_cluster
 2679;galaxy in pair of galaxies;galaxy
-2680;double or multiple star;multiple star
+2680;double or multiple star;multiple_star
 2681;liner-type active galaxy nucleus;galaxy
-2682;open (galactic) cluster;open cluster
+2682;open (galactic) cluster;open_cluster
 2683;active galaxy nucleus;galaxy
 2684;galaxy in group of galaxies;galaxy
 2685;seyfert 2 galaxy;galaxy
@@ -2542,7 +2542,7 @@
 2789;radio galaxy;galaxy
 2790;radio galaxy;galaxy
 2791;emission-line galaxy;galaxy
-2792;planetary nebula;planetary nebula
+2792;planetary nebula;planetary_nebula
 2793;galaxy in cluster of galaxies;galaxy
 2794;liner-type active galaxy nucleus;galaxy
 2795;radio galaxy;galaxy
@@ -2558,7 +2558,7 @@
 2805;galaxy in pair of galaxies;galaxy
 2806;galaxy in group of galaxies;galaxy
 2807;galaxy in group of galaxies;galaxy
-2808;globular cluster;globular cluster
+2808;globular cluster;globular_cluster
 2809;galaxy in group of galaxies;galaxy
 2810;galaxy;galaxy
 2811;galaxy in group of galaxies;galaxy
@@ -2568,7 +2568,7 @@
 2815;emission-line galaxy;galaxy
 2816;galaxy in group of galaxies;galaxy
 2817;galaxy;galaxy
-2818;planetary nebula;planetary nebula
+2818;planetary nebula;planetary_nebula
 2819;liner-type active galaxy nucleus;galaxy
 2820;galaxy in pair of galaxies;galaxy
 2821;emission-line galaxy;galaxy
@@ -2596,7 +2596,7 @@
 2844;galaxy in group of galaxies;galaxy
 2845;galaxy;galaxy
 2848;emission-line galaxy;galaxy
-2849;open (galactic) cluster;open cluster
+2849;open (galactic) cluster;open_cluster
 2850;galaxy;galaxy
 2851;galaxy;galaxy
 2852;galaxy in pair of galaxies;galaxy
@@ -2613,8 +2613,8 @@
 2863;galaxy;galaxy
 2864;galaxy;galaxy
 2865;galaxy in group of galaxies;galaxy
-2866;open (galactic) cluster;open cluster
-2867;planetary nebula;planetary nebula
+2866;open (galactic) cluster;open_cluster
+2867;planetary nebula;planetary_nebula
 2868;galaxy;galaxy
 2870;galaxy;galaxy
 2872;interacting galaxies;galaxy
@@ -2641,7 +2641,7 @@
 2896;galaxy;galaxy
 2897;galaxy in group of galaxies;galaxy
 2898;liner-type active galaxy nucleus;galaxy
-2899;planetary nebula;planetary nebula
+2899;planetary nebula;planetary_nebula
 2900;emission-line galaxy;galaxy
 2902;galaxy in group of galaxies;galaxy
 2904;galaxy in group of galaxies;galaxy
@@ -2650,7 +2650,7 @@
 2907;liner-type active galaxy nucleus;galaxy
 2908;galaxy;galaxy
 2909;galaxy;galaxy
-2910;open (galactic) cluster;open cluster
+2910;open (galactic) cluster;open_cluster
 2911;liner-type active galaxy nucleus;galaxy
 2912;galaxy;galaxy
 2913;galaxy in group of galaxies;galaxy
@@ -2665,7 +2665,7 @@
 2922;emission-line galaxy;galaxy
 2923;galaxy in group of galaxies;galaxy
 2924;galaxy in group of galaxies;galaxy
-2925;open (galactic) cluster;open cluster
+2925;open (galactic) cluster;open_cluster
 2926;galaxy in group of galaxies;galaxy
 2927;radio galaxy;galaxy
 2928;galaxy in group of galaxies;galaxy
@@ -2710,7 +2710,7 @@
 2969;emission-line galaxy;galaxy
 2970;galaxy in pair of galaxies;galaxy
 2971;liner-type active galaxy nucleus;galaxy
-2972;open (galactic) cluster;open cluster
+2972;open (galactic) cluster;open_cluster
 2973;galaxy;galaxy
 2974;seyfert 2 galaxy;galaxy
 2975;galaxy;galaxy
@@ -2765,9 +2765,9 @@
 3029;galaxy;galaxy
 3030;galaxy;galaxy
 3032;active galaxy nucleus;galaxy
-3033;open (galactic) cluster;open cluster
+3033;open (galactic) cluster;open_cluster
 3035;seyfert 1 galaxy;galaxy
-3036;open (galactic) cluster;open cluster
+3036;open (galactic) cluster;open_cluster
 3037;emission-line galaxy;galaxy
 3038;emission-line galaxy;galaxy
 3039;seyfert 2 galaxy;galaxy
@@ -2831,7 +2831,7 @@
 3101;galaxy in group of galaxies;galaxy
 3102;galaxy in group of galaxies;galaxy
 3104;interacting galaxies;galaxy
-3105;open (galactic) cluster;open cluster
+3105;open (galactic) cluster;open_cluster
 3106;liner-type active galaxy nucleus;galaxy
 3107;galaxy;galaxy
 3108;galaxy in group of galaxies;galaxy
@@ -2840,7 +2840,7 @@
 3111;radio galaxy;galaxy
 3112;galaxy;galaxy
 3113;low surface brightness galaxy;galaxy
-3114;open (galactic) cluster;open cluster
+3114;open (galactic) cluster;open_cluster
 3115;galaxy in group of galaxies;galaxy
 3116;galaxy in group of galaxies;galaxy
 3117;galaxy in group of galaxies;galaxy
@@ -2855,7 +2855,7 @@
 3128;emission-line galaxy;galaxy
 3130;galaxy;galaxy
 3131;liner-type active galaxy nucleus;galaxy
-3132;planetary nebula;planetary nebula
+3132;planetary nebula;planetary_nebula
 3133;galaxy;galaxy
 3134;galaxy;galaxy
 3135;liner-type active galaxy nucleus;galaxy
@@ -2909,13 +2909,13 @@
 3189;galaxy in pair of galaxies;galaxy
 3191;galaxy;galaxy
 3193;galaxy in pair of galaxies;galaxy
-3195;planetary nebula;planetary nebula
+3195;planetary nebula;planetary_nebula
 3196;seyfert 2 galaxy;galaxy
 3197;galaxy;galaxy
 3198;emission-line galaxy;galaxy
 3199;hii (ionized) region;nebula
 3200;galaxy;galaxy
-3201;globular cluster;globular cluster
+3201;globular cluster;globular_cluster
 3202;liner-type active galaxy nucleus;galaxy
 3203;galaxy in group of galaxies;galaxy
 3204;emission-line galaxy;galaxy
@@ -2924,7 +2924,7 @@
 3207;liner-type active galaxy nucleus;galaxy
 3208;emission-line galaxy;galaxy
 3209;galaxy in group of galaxies;galaxy
-3211;planetary nebula;planetary nebula
+3211;planetary nebula;planetary_nebula
 3212;galaxy in pair of galaxies;galaxy
 3213;galaxy in group of galaxies;galaxy
 3214;galaxy;galaxy
@@ -2940,10 +2940,10 @@
 3225;emission-line galaxy;galaxy
 3226;galaxy in pair of galaxies;galaxy
 3227;galaxy in pair of galaxies;galaxy
-3228;open (galactic) cluster;open cluster
+3228;open (galactic) cluster;open_cluster
 3229;galaxy;galaxy
 3230;low surface brightness galaxy;galaxy
-3231;cluster of stars;open cluster
+3231;cluster of stars;open_cluster
 3232;interacting galaxies;galaxy
 3233;emission-line galaxy;galaxy
 3235;galaxy in group of galaxies;galaxy
@@ -2953,12 +2953,12 @@
 3239;interacting galaxies;galaxy
 3240;emission-line galaxy;galaxy
 3241;emission-line galaxy;galaxy
-3242;planetary nebula;planetary nebula
+3242;planetary nebula;planetary_nebula
 3243;galaxy in group of galaxies;galaxy
 3244;emission-line galaxy;galaxy
 3245;galaxy in pair of galaxies;galaxy
 3246;galaxy;galaxy
-3247;cluster of stars;open cluster
+3247;cluster of stars;open_cluster
 3248;galaxy in group of galaxies;galaxy
 3249;emission-line galaxy;galaxy
 3250;galaxy in group of galaxies;galaxy
@@ -2966,7 +2966,7 @@
 3252;galaxy in group of galaxies;galaxy
 3253;galaxy in group of galaxies;galaxy
 3254;seyfert 2 galaxy;galaxy
-3255;open (galactic) cluster;open cluster
+3255;open (galactic) cluster;open_cluster
 3256;interacting galaxies;galaxy
 3257;galaxy in group of galaxies;galaxy
 3258;brightest galaxy in a cluster (bcg);galaxy
@@ -3002,7 +3002,7 @@
 3289;galaxy in group of galaxies;galaxy
 3290;emission-line galaxy;galaxy
 3292;galaxy;galaxy
-3293;open (galactic) cluster;open cluster
+3293;open (galactic) cluster;open_cluster
 3294;galaxy;galaxy
 3296;galaxy in group of galaxies;galaxy
 3297;galaxy in group of galaxies;galaxy
@@ -3030,12 +3030,12 @@
 3320;galaxy in group of galaxies;galaxy
 3321;galaxy;galaxy
 3323;emission-line galaxy;galaxy
-3324;open (galactic) cluster;open cluster
+3324;open (galactic) cluster;open_cluster
 3325;galaxy in group of galaxies;galaxy
 3326;radio galaxy;galaxy
 3327;seyfert 2 galaxy;galaxy
 3329;galaxy in pair of galaxies;galaxy
-3330;open (galactic) cluster;open cluster
+3330;open (galactic) cluster;open_cluster
 3331;emission-line galaxy;galaxy
 3332;liner-type active galaxy nucleus;galaxy
 3333;emission-line galaxy;galaxy
@@ -3137,7 +3137,7 @@
 3443;galaxy in group of galaxies;galaxy
 3444;galaxy in group of galaxies;galaxy
 3445;galaxy in pair of galaxies;galaxy
-3446;open (galactic) cluster;open cluster
+3446;open (galactic) cluster;open_cluster
 3447;galaxy in pair of galaxies;galaxy
 3448;interacting galaxies;galaxy
 3449;galaxy in group of galaxies;galaxy
@@ -3181,7 +3181,7 @@
 3492;brightest galaxy in a cluster (bcg);galaxy
 3493;emission-line galaxy;galaxy
 3495;galaxy in group of galaxies;galaxy
-3496;open (galactic) cluster;open cluster
+3496;open (galactic) cluster;open_cluster
 3497;liner-type active galaxy nucleus;galaxy
 3499;galaxy in group of galaxies;galaxy
 3501;galaxy in pair of galaxies;galaxy
@@ -3209,7 +3209,7 @@
 3527;liner-type active galaxy nucleus;galaxy
 3529;emission-line galaxy;galaxy
 3530;galaxy in group of galaxies;galaxy
-3532;open (galactic) cluster;open cluster
+3532;open (galactic) cluster;open_cluster
 3533;galaxy in group of galaxies;galaxy
 3534;emission-line galaxy;galaxy
 3535;radio galaxy;galaxy
@@ -3244,7 +3244,7 @@
 3568;emission-line galaxy;galaxy
 3569;blazar;galaxy
 3570;galaxy;galaxy
-3572;open (galactic) cluster;open cluster
+3572;open (galactic) cluster;open_cluster
 3573;liner-type active galaxy nucleus;galaxy
 3574;active galaxy nucleus;galaxy
 3576;hii (ionized) region;nebula
@@ -3259,7 +3259,7 @@
 3586;interstellar matter;nebula
 3588;galaxy in cluster of galaxies;galaxy
 3589;galaxy;galaxy
-3590;open (galactic) cluster;open cluster
+3590;open (galactic) cluster;open_cluster
 3591;galaxy in group of galaxies;galaxy
 3592;galaxy in group of galaxies;galaxy
 3593;galaxy in group of galaxies;galaxy
@@ -3272,7 +3272,7 @@
 3600;galaxy in group of galaxies;galaxy
 3601;galaxy;galaxy
 3602;liner-type active galaxy nucleus;galaxy
-3603;open (galactic) cluster;open cluster
+3603;open (galactic) cluster;open_cluster
 3605;galaxy in group of galaxies;galaxy
 3606;galaxy in group of galaxies;galaxy
 3608;liner-type active galaxy nucleus;galaxy
@@ -3343,7 +3343,7 @@
 3677;radio galaxy;galaxy
 3678;emission-line galaxy;galaxy
 3679;galaxy;galaxy
-3680;open (galactic) cluster;open cluster
+3680;open (galactic) cluster;open_cluster
 3681;galaxy in group of galaxies;galaxy
 3682;galaxy in group of galaxies;galaxy
 3683;hii galaxy;galaxy
@@ -3361,7 +3361,7 @@
 3695;galaxy;galaxy
 3696;galaxy in group of galaxies;galaxy
 3697;galaxy in group of galaxies;galaxy
-3699;planetary nebula;planetary nebula
+3699;planetary nebula;planetary_nebula
 3700;galaxy;galaxy
 3701;galaxy in cluster of galaxies;galaxy
 3702;galaxy in group of galaxies;galaxy
@@ -3424,7 +3424,7 @@
 3763;galaxy in group of galaxies;galaxy
 3764;galaxy in group of galaxies;galaxy
 3765;liner-type active galaxy nucleus;galaxy
-3766;open (galactic) cluster;open cluster
+3766;open (galactic) cluster;open_cluster
 3767;galaxy in group of galaxies;galaxy
 3768;galaxy in group of galaxies;galaxy
 3769;galaxy in pair of galaxies;galaxy
@@ -3553,7 +3553,7 @@
 3906;galaxy;galaxy
 3907;galaxy in pair of galaxies;galaxy
 3908;brightest galaxy in a cluster (bcg);galaxy
-3909;open (galactic) cluster;open cluster
+3909;open (galactic) cluster;open_cluster
 3910;galaxy in group of galaxies;galaxy
 3911;emission-line galaxy;galaxy
 3912;galaxy in pair of galaxies;galaxy
@@ -3562,7 +3562,7 @@
 3915;galaxy;galaxy
 3916;liner-type active galaxy nucleus;galaxy
 3917;galaxy in pair of galaxies;galaxy
-3918;planetary nebula;planetary nebula
+3918;planetary nebula;planetary_nebula
 3919;galaxy in group of galaxies;galaxy
 3920;radio galaxy;galaxy
 3921;interacting galaxies;galaxy
@@ -3601,7 +3601,7 @@
 3957;galaxy in group of galaxies;galaxy
 3958;liner-type active galaxy nucleus;galaxy
 3959;galaxy in group of galaxies;galaxy
-3960;open (galactic) cluster;open cluster
+3960;open (galactic) cluster;open_cluster
 3961;galaxy;galaxy
 3962;liner-type active galaxy nucleus;galaxy
 3963;galaxy in pair of galaxies;galaxy
@@ -3686,7 +3686,7 @@
 4049;galaxy in cluster of galaxies;galaxy
 4050;galaxy in group of galaxies;galaxy
 4051;seyfert 1 galaxy;galaxy
-4052;open (galactic) cluster;open cluster
+4052;open (galactic) cluster;open_cluster
 4053;liner-type active galaxy nucleus;galaxy
 4054;galaxy;galaxy
 4055;radio galaxy;galaxy
@@ -3703,7 +3703,7 @@
 4068;galaxy;galaxy
 4069;galaxy in group of galaxies;galaxy
 4070;liner-type active galaxy nucleus;galaxy
-4071;planetary nebula;planetary nebula
+4071;planetary nebula;planetary_nebula
 4072;liner-type active galaxy nucleus;galaxy
 4073;brightest galaxy in a cluster (bcg);galaxy
 4074;seyfert 2 galaxy;galaxy
@@ -3734,7 +3734,7 @@
 4100;galaxy in group of galaxies;galaxy
 4101;emission-line galaxy;galaxy
 4102;liner-type active galaxy nucleus;galaxy
-4103;open (galactic) cluster;open cluster
+4103;open (galactic) cluster;open_cluster
 4104;brightest galaxy in a cluster (bcg);galaxy
 4105;liner-type active galaxy nucleus;galaxy
 4106;galaxy in pair of galaxies;galaxy
@@ -3772,7 +3772,7 @@
 4144;galaxy in group of galaxies;galaxy
 4145;galaxy in pair of galaxies;galaxy
 4146;seyfert 2 galaxy;galaxy
-4147;globular cluster;globular cluster
+4147;globular cluster;globular_cluster
 4148;blazar;galaxy
 4149;radio galaxy;galaxy
 4150;galaxy in group of galaxies;galaxy
@@ -3803,7 +3803,7 @@
 4181;galaxy;galaxy
 4182;galaxy;galaxy
 4183;galaxy in group of galaxies;galaxy
-4184;open (galactic) cluster;open cluster
+4184;open (galactic) cluster;open_cluster
 4185;liner-type active galaxy nucleus;galaxy
 4186;galaxy in group of galaxies;galaxy
 4188;galaxy in group of galaxies;galaxy
@@ -3844,7 +3844,7 @@
 4227;galaxy in pair of galaxies;galaxy
 4228;starburst galaxy;galaxy
 4229;galaxy in pair of galaxies;galaxy
-4230;open (galactic) cluster;open cluster
+4230;open (galactic) cluster;open_cluster
 4231;radio galaxy;galaxy
 4232;galaxy in pair of galaxies;galaxy
 4233;galaxy in group of galaxies;galaxy
@@ -3939,7 +3939,7 @@
 4334;radio galaxy;galaxy
 4335;radio galaxy;galaxy
 4336;galaxy in group of galaxies;galaxy
-4337;open (galactic) cluster;open cluster
+4337;open (galactic) cluster;open_cluster
 4338;galaxy in cluster of galaxies;galaxy
 4339;galaxy in pair of galaxies;galaxy
 4340;galaxy in pair of galaxies;galaxy
@@ -3949,7 +3949,7 @@
 4344;blue compact galaxy;galaxy
 4346;galaxy in group of galaxies;galaxy
 4348;galaxy in group of galaxies;galaxy
-4349;open (galactic) cluster;open cluster
+4349;open (galactic) cluster;open_cluster
 4350;galaxy in pair of galaxies;galaxy
 4351;galaxy in group of galaxies;galaxy
 4352;galaxy in group of galaxies;galaxy
@@ -3960,7 +3960,7 @@
 4358;galaxy;galaxy
 4359;galaxy in group of galaxies;galaxy
 4360;brightest galaxy in a cluster (bcg);galaxy
-4361;planetary nebula;planetary nebula
+4361;planetary nebula;planetary_nebula
 4362;galaxy in group of galaxies;galaxy
 4363;galaxy;galaxy
 4364;galaxy in group of galaxies;galaxy
@@ -3969,7 +3969,7 @@
 4369;galaxy in group of galaxies;galaxy
 4370;galaxy in group of galaxies;galaxy
 4371;galaxy in group of galaxies;galaxy
-4372;globular cluster;globular cluster
+4372;globular cluster;globular_cluster
 4373;galaxy in group of galaxies;galaxy
 4375;seyfert 2 galaxy;galaxy
 4376;galaxy in group of galaxies;galaxy
@@ -3990,7 +3990,7 @@
 4394;galaxy in pair of galaxies;galaxy
 4395;seyfert 2 galaxy;galaxy
 4396;galaxy in group of galaxies;galaxy
-4397;double or multiple star;multiple star
+4397;double or multiple star;multiple_star
 4399;part of a galaxy;galaxy
 4400;part of a galaxy;galaxy
 4401;part of a galaxy;galaxy
@@ -4014,7 +4014,7 @@
 4423;galaxy in group of galaxies;galaxy
 4424;hii galaxy;galaxy
 4425;galaxy in group of galaxies;galaxy
-4426;double or multiple star;multiple star
+4426;double or multiple star;multiple_star
 4428;emission-line galaxy;galaxy
 4429;galaxy in group of galaxies;galaxy
 4430;galaxy in pair of galaxies;galaxy
@@ -4025,7 +4025,7 @@
 4435;galaxy in group of galaxies;galaxy
 4436;galaxy in pair of galaxies;galaxy
 4438;liner-type active galaxy nucleus;galaxy
-4439;open (galactic) cluster;open cluster
+4439;open (galactic) cluster;open_cluster
 4440;galaxy in group of galaxies;galaxy
 4441;galaxy in group of galaxies;galaxy
 4442;galaxy in group of galaxies;galaxy
@@ -4048,7 +4048,7 @@
 4460;hii galaxy;galaxy
 4461;galaxy in pair of galaxies;galaxy
 4462;galaxy;galaxy
-4463;open (galactic) cluster;open cluster
+4463;open (galactic) cluster;open_cluster
 4464;galaxy in group of galaxies;galaxy
 4465;galaxy in group of galaxies;galaxy
 4466;galaxy in group of galaxies;galaxy
@@ -4177,7 +4177,7 @@
 4606;galaxy in pair of galaxies;galaxy
 4607;galaxy in pair of galaxies;galaxy
 4608;galaxy in pair of galaxies;galaxy
-4609;open (galactic) cluster;open cluster
+4609;open (galactic) cluster;open_cluster
 4611;galaxy;galaxy
 4612;galaxy in group of galaxies;galaxy
 4613;emission-line galaxy;galaxy
@@ -4315,7 +4315,7 @@
 4752;galaxy;galaxy
 4753;galaxy in group of galaxies;galaxy
 4754;galaxy in pair of galaxies;galaxy
-4755;open (galactic) cluster;open cluster
+4755;open (galactic) cluster;open_cluster
 4756;brightest galaxy in a cluster (bcg);galaxy
 4757;galaxy in group of galaxies;galaxy
 4758;galaxy in group of galaxies;galaxy
@@ -4368,7 +4368,7 @@
 4812;galaxy in group of galaxies;galaxy
 4813;seyfert 2 galaxy;galaxy
 4814;galaxy in pair of galaxies;galaxy
-4815;open (galactic) cluster;open cluster
+4815;open (galactic) cluster;open_cluster
 4816;galaxy in group of galaxies;galaxy
 4817;galaxy in cluster of galaxies;galaxy
 4818;starburst galaxy;galaxy
@@ -4385,7 +4385,7 @@
 4830;galaxy;galaxy
 4831;galaxy in group of galaxies;galaxy
 4832;galaxy in group of galaxies;galaxy
-4833;globular cluster;globular cluster
+4833;globular cluster;globular_cluster
 4834;liner-type active galaxy nucleus;galaxy
 4835;galaxy in group of galaxies;galaxy
 4836;galaxy in group of galaxies;galaxy
@@ -4402,7 +4402,7 @@
 4849;liner-type active galaxy nucleus;galaxy
 4850;active galaxy nucleus;galaxy
 4851;galaxy in group of galaxies;galaxy
-4852;open (galactic) cluster;open cluster
+4852;open (galactic) cluster;open_cluster
 4853;active galaxy nucleus;galaxy
 4854;galaxy in group of galaxies;galaxy
 4855;galaxy in group of galaxies;galaxy
@@ -4579,9 +4579,9 @@
 5040;galaxy;galaxy
 5041;liner-type active galaxy nucleus;galaxy
 5042;galaxy in group of galaxies;galaxy
-5043;open (galactic) cluster;open cluster
+5043;open (galactic) cluster;open_cluster
 5044;brightest galaxy in a cluster (bcg);galaxy
-5045;open (galactic) cluster;open cluster
+5045;open (galactic) cluster;open_cluster
 5046;galaxy in group of galaxies;galaxy
 5047;galaxy in pair of galaxies;galaxy
 5048;galaxy in group of galaxies;galaxy
@@ -4589,7 +4589,7 @@
 5050;galaxy in group of galaxies;galaxy
 5051;emission-line galaxy;galaxy
 5052;liner-type active galaxy nucleus;galaxy
-5053;globular cluster;globular cluster
+5053;globular cluster;globular_cluster
 5054;galaxy in pair of galaxies;galaxy
 5056;galaxy;galaxy
 5057;galaxy in group of galaxies;galaxy
@@ -4651,7 +4651,7 @@
 5117;galaxy in cluster of galaxies;galaxy
 5118;radio galaxy;galaxy
 5119;galaxy in group of galaxies;galaxy
-5120;open (galactic) cluster;open cluster
+5120;open (galactic) cluster;open_cluster
 5121;galaxy;galaxy
 5122;galaxy in group of galaxies;galaxy
 5123;radio galaxy;galaxy
@@ -4668,8 +4668,8 @@
 5135;seyfert 2 galaxy;galaxy
 5136;emission-line galaxy;galaxy
 5137;galaxy in group of galaxies;galaxy
-5138;open (galactic) cluster;open cluster
-5139;globular cluster;globular cluster
+5138;open (galactic) cluster;open_cluster
+5139;globular cluster;globular_cluster
 5140;active galaxy nucleus;galaxy
 5141;liner-type active galaxy nucleus;galaxy
 5142;liner-type active galaxy nucleus;galaxy
@@ -4685,7 +4685,7 @@
 5152;galaxy in cluster of galaxies;galaxy
 5153;galaxy in group of galaxies;galaxy
 5154;galaxy in pair of galaxies;galaxy
-5155;open (galactic) cluster;open cluster
+5155;open (galactic) cluster;open_cluster
 5156;galaxy in group of galaxies;galaxy
 5157;liner-type active galaxy nucleus;galaxy
 5158;liner-type active galaxy nucleus;galaxy
@@ -4696,7 +4696,7 @@
 5165;galaxy in group of galaxies;galaxy
 5166;galaxy in group of galaxies;galaxy
 5167;liner-type active galaxy nucleus;galaxy
-5168;open (galactic) cluster;open cluster
+5168;open (galactic) cluster;open_cluster
 5169;galaxy in pair of galaxies;galaxy
 5170;galaxy in pair of galaxies;galaxy
 5171;galaxy in group of galaxies;galaxy
@@ -4716,7 +4716,7 @@
 5186;galaxy;galaxy
 5187;liner-type active galaxy nucleus;galaxy
 5188;galaxy in group of galaxies;galaxy
-5189;planetary nebula;planetary nebula
+5189;planetary nebula;planetary_nebula
 5190;emission-line galaxy;galaxy
 5191;liner-type active galaxy nucleus;galaxy
 5192;emission-line galaxy;galaxy
@@ -4790,7 +4790,7 @@
 5265;radio galaxy;galaxy
 5266;galaxy in group of galaxies;galaxy
 5267;liner-type active galaxy nucleus;galaxy
-5269;open (galactic) cluster;open cluster
+5269;open (galactic) cluster;open_cluster
 5270;galaxy;galaxy
 5271;liner-type active galaxy nucleus;galaxy
 5273;seyfert 1 galaxy;galaxy
@@ -4801,14 +4801,14 @@
 5278;interacting galaxies;galaxy
 5279;galaxy in pair of galaxies;galaxy
 5280;galaxy in group of galaxies;galaxy
-5281;open (galactic) cluster;open cluster
+5281;open (galactic) cluster;open_cluster
 5282;emission-line galaxy;galaxy
 5283;seyfert 2 galaxy;galaxy
-5284;open (galactic) cluster;open cluster
+5284;open (galactic) cluster;open_cluster
 5285;brightest galaxy in a cluster (bcg);galaxy
-5286;globular cluster;globular cluster
+5286;globular cluster;globular_cluster
 5287;brightest galaxy in a cluster (bcg);galaxy
-5288;open (galactic) cluster;open cluster
+5288;open (galactic) cluster;open_cluster
 5289;galaxy in pair of galaxies;galaxy
 5290;seyfert 2 galaxy;galaxy
 5291;active galaxy nucleus;galaxy
@@ -4819,7 +4819,7 @@
 5296;galaxy in pair of galaxies;galaxy
 5297;galaxy in pair of galaxies;galaxy
 5298;galaxy in group of galaxies;galaxy
-5299;open (galactic) cluster;open cluster
+5299;open (galactic) cluster;open_cluster
 5300;emission-line galaxy;galaxy
 5301;galaxy in group of galaxies;galaxy
 5302;galaxy in group of galaxies;galaxy
@@ -4827,14 +4827,14 @@
 5304;galaxy in group of galaxies;galaxy
 5305;liner-type active galaxy nucleus;galaxy
 5306;galaxy in group of galaxies;galaxy
-5307;planetary nebula;planetary nebula
+5307;planetary nebula;planetary_nebula
 5308;galaxy in pair of galaxies;galaxy
 5311;seyfert galaxy;galaxy
 5312;liner-type active galaxy nucleus;galaxy
 5313;galaxy in pair of galaxies;galaxy
 5314;galaxy;galaxy
-5315;planetary nebula;planetary nebula
-5316;open (galactic) cluster;open cluster
+5315;planetary nebula;planetary_nebula
+5316;open (galactic) cluster;open_cluster
 5318;liner-type active galaxy nucleus;galaxy
 5319;galaxy;galaxy
 5320;seyfert galaxy;galaxy
@@ -4876,7 +4876,7 @@
 5356;galaxy in pair of galaxies;galaxy
 5357;liner-type active galaxy nucleus;galaxy
 5358;galaxy in pair of galaxies;galaxy
-5359;open (galactic) cluster;open cluster
+5359;open (galactic) cluster;open_cluster
 5360;galaxy in pair of galaxies;galaxy
 5361;galaxy;galaxy
 5362;galaxy in group of galaxies;galaxy
@@ -4897,10 +4897,10 @@
 5378;liner-type active galaxy nucleus;galaxy
 5379;galaxy in pair of galaxies;galaxy
 5380;galaxy in group of galaxies;galaxy
-5381;open (galactic) cluster;open cluster
+5381;open (galactic) cluster;open_cluster
 5382;galaxy in group of galaxies;galaxy
 5383;galaxy in group of galaxies;galaxy
 5384;liner-type active galaxy nucleus;galaxy
-5385;cluster of stars;open cluster
+5385;cluster of stars;open_cluster
 5386;galaxy in group of galaxies;galaxy
 5387;galaxy;galaxy
