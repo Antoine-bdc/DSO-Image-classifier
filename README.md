@@ -6,6 +6,21 @@ This project aims to create a model classifying Deep Space Objects (DSO) images.
 
 ## How to run
 
+
+**Requirements:**
+
+- Python3 with the following libraries:
+    - tensorflow
+    - matplotlib
+    - pandas
+
+- NodeJS with the following libraries:
+    - puppeteer
+
+- [imagemagick](https://imagemagick.org)
+
+**Run:**
+
 Run data scrappers: 
 ```bash
 node scrapping/dataScrapper.js

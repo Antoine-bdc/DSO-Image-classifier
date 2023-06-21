@@ -11,3 +11,4 @@ data/imageData/other
 data/backup
 .ipynb_checkpoints
 learning/.ipynb_checkpoints
+.history
