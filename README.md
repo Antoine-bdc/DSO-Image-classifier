@@ -13,6 +13,7 @@ This project aims to create a model classifying Deep Space Objects (DSO) images.
     - tensorflow
     - matplotlib
     - pandas
+    - pillow
 
 - NodeJS with the following libraries:
     - puppeteer
@@ -46,6 +47,15 @@ You can use the classifier on images stored locally on your machine using the `l
 ```bash
 python learning/classifier.py data/cropedData/dss/ngc222.png
 ```
+
+You can also run the webapp to perform classifications:
+
+```bash
+cd webapp
+python webapp.py
+```
+
+Then open the webpage on http://127.0.0.1:5000
 
 ## License
 
