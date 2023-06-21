@@ -35,21 +35,6 @@ def predict(filename, model):
     predictions = model.predict(img_array)
     result = float(predictions[0])
 
-
-    # img = keras.preprocessing.image.load_img(filename, target_size=(161, 161))
-    # img = keras.preprocessing.image.img_to_array(img)
-    # img = img.reshape(1, 161, 161, 3)
-
-    # img = img.astype('float32')
-    # img = img / 255.0
-    # result = model.predict(img)
-
-    print(result)
-
-    # result = result[0][0]
-
-    # print(result)
-
     if result < 0.5:
         class_result = [classes[0], classes[1]]
     else:
@@ -134,4 +119,4 @@ def success():
 
 
 if __name__ == "__main__":
-    app.run(debug=True)
+    app.run(host="0.0.0.0", port=int("5000"), debug=True)
