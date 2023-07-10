@@ -4,6 +4,8 @@
 
 This project aims to create a model classifying Deep Space Objects (DSO) images. In order to do so, it scrapes image and label data from `https://simbad.u-strasbg.fr`. Then trains a deep learning model to classify between the two most prominent classes: Galaxies and open clusters.
 
+You can try the hosted version of the classifier using this [link](http://matrix-antoine-bdc.duckdns.org:5000/) (provided the server is still running). 
+
 ## How to run
 
 
